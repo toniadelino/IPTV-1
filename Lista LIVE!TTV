@@ -1,104 +1,64 @@
 #EXTM3U
-
-#EXTINF:-1 Lista feita com o Apoio dos Grupos IPTV em SmartTV e o Live!t TV
-Http://ss
-
+#EXTINF:0,Lista feita com o Apoio dos Grupos IPTV em SmartTV e o Live!t TV
+http://
 #EXTINF:-1 $ExtFilter="1 - Canais PT" tvg-logo="livetvicon2.png" group-title="1 - Canais PT",[COLOR blue]» » Live!t TV « «[/COLOR]
 http://0.0.0.0:123455
-
 #EXTINF:-1 $ExtFilter="1 - Canais PT" group-title="1 - Canais PT",[COLOR blue]» » 29-10-2015 - 19:49 « «[/COLOR]
 http://0.0.0.0:123455
-
 #EXTINF:-1 $ExtFilter="1 - Canais PT" group-title="1 - Canais PT",[COLOR blue]» » Atualizado por: Américo Reis « «[/COLOR]
 http://0.0.0.0:123455
-
-
 #EXTINF:-1 $ExtFilter="0 - Canais Temporários" tvg-logo="BannerEstúdioViva[01].png"" group-title="0 - Canais Temporários",[COLOR yellow][B]» » 0 - Canais Temporários « «[/B][/COLOR]
 http://0.0.0.0:123455
-
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="0 - Canais Temporários" tvg-id="BenficaTV.pt" group-title="0 - Canais Temporários" audio-track="pt" tvg-shift="-1" tvg-name="BENFICA TV 1 HD" tvg-logo="E5c3Nhn.png",[I]BENFICA TV 1 HD[/I]
 http://62.210.248.96:11000/live/tiagomromeira@hotmail.com_port/tiagomromeira@hotmail.com_port/207.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="0 - Canais Temporários" tvg-id="sporttv1.pt" group-title="0 - Canais Temporários" audio-track="pt" tvg-shift="-1" tvg-name="SPORT TV 1 HD" tvg-logo="sptv1.png",[I]SPORT TV 1 HD[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/83.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="0 - Canais Temporários" tvg-id="sporttv2.pt" group-title="0 - Canais Temporários" audio-track="pt" tvg-shift="-1" tvg-name="SPORT TV 2 HD" tvg-logo="sptv2.png",[I]SPORT TV 2 HD[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/85.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="0 - Canais Temporários" tvg-id="sporttv3.pt" group-title="0 - Canais Temporários" audio-track="pt" tvg-shift="-1" tvg-name="SPORT TV 3 HD" tvg-logo="sptv3.png",[I]SPORT TV 3 HD[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/87.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="0 - Canais Temporários" tvg-id="sporttv4.pt" group-title="0 - Canais Temporários" audio-track="pt" tvg-shift="-1" tvg-name="SPORT TV 4 HD" tvg-logo="sptv4.png",[I]SPORT TV 4 HD[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/89.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="0 - Canais Temporários" tvg-id="sporttv5.pt" group-title="0 - Canais Temporários" audio-track="pt" tvg-shift="-1" tvg-name="SPORT TV 5 HD" tvg-logo="sptv5.png",[I]SPORT TV 5 HD[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/91.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="0 - Canais Temporários" tvg-id="" group-title="0 - Canais Temporários" audio-track="pt" tvg-shift="-1" tvg-name="SPORTING TV HD" tvg-logo="sporting_tv_pt.png",[I]SPORTING TV HD[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/81.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 $ExtFilter="1 - Canais PT" tvg-logo="tv.png"" group-title="1 - Canais PT",[COLOR yellow][B]» » 1 - Canais PT « «[/B][/COLOR]
 http://0.0.0.0:123455
-
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="24 KITCHEN" tvg-logo="320px-24Kitchen.png",[I]24 KITCHEN[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/2.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="autohoje.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="AUTOHOJE TV" tvg-logo="auto_hoje.png",[I]AUTOHOJE TV[/I]
 mms://tv.autohoje.com/mpltv
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="CANAL Q" tvg-logo="Canal_Q_2012.png",[I]CANAL Q[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/22.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="CMTV.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="CM TV" tvg-logo="CMtv.png",[I]CM TV[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/27.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="EconomicaTV.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="ECONÓMICO TV" tvg-logo="etv.png",[I]ECONÓMICO TV[/I]
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="PORTOCANAL.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="PORTO CANAL" tvg-logo="porto_canal.png",[I]PORTO CANAL[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/65.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="rtp1.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="RTP 1" tvg-logo="rtp1.png",[I]RTP 1[/I]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/chunklist_b600000_slpt.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="rtp2.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="RTP 2" tvg-logo="rtp2.png",[I]RTP 2[/I]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/chunklist_b600000_slpt.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="rtpn.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="RTP 3" tvg-logo="2015-logo-rtp3.png",[I]RTP 3[/I]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="RTPAcores.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="RTP AÇORES" tvg-logo="rtp_acores.png",[I]RTP AÇORES[/I]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/chunklist_b600000_slpt.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="RTPAfrica.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="RTP ÁFRICA" tvg-logo="rtp_africa.png",[I]RTP ÁFRICA[/I]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/chunklist_b600000_slpt.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="RTPi.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="RTP INTERNACIONAL" tvg-logo="rtpint.png",[I]RTP INTERNACIONAL[/I]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/chunklist_b600000_slpt.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="RTPMadeira.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="RTP MADEIRA" tvg-logo="rt_madeira.png",[I]RTP MADEIRA[/I]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/chunklist_b600000_slpt.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="rtpmemoria.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="RTP MEMÓRIA" tvg-logo="rtp_memoria.png",[I]RTP MEMÓRIA[/I]
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/chunklist_b600000_slpt.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="sic.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="SIC" tvg-logo="SIC.png",[I]SIC[/I]
 http://213.13.26.11:1935/live/sic/by.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="sic.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="SIC (2)" tvg-logo="SIC.png",[I]SIC (2)[/I]
 http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="sic.pt" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="SIC (3)" tvg-logo="SIC.png",[I]SIC (3)[/I]
 http://brodcast-2.zuneserver.com:10007/live/jose/S5mmy0qZdM/5.m3u8
-
 #EXTINF:0 aspect-ratio=16:9 $ExtFilter="1 - Canais PT" tvg-id="sic.PT" group-title="1 - Canais PT" audio-track="pt" tvg-shift="-1" tvg-name="SIC (4)" tvg-logo="SIC.png",[I]SIC (4)[/I]
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/80.m3u8
 
