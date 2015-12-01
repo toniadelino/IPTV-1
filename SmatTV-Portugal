@@ -1,850 +1,167 @@
-#EXTM3U
- 
-#EXTINF:-1, tvg-logo="http://visionfour.com/images/iptv.jpg",Lista do Grupo Facebook - IPTV EM SAMRT TV -
-http://62.210.248.96:11000
- 
-Todas as Listas postas do grupo são facilmente encontradas na Internet.
-Não alojamos nenhum serviço nem cobramos por qualquer Lista
- 
-#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://visaodigital.sytes.net/picons/rtp1.png" group-title="General Streams",RTP 1-a
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
- 
-#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="RTP 1" tvg-logo="http://visaodigital.sytes.net/picons/rtp1.png" group-title="General Streams",RTP 1-b
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1.smil/chunklist_b600000_slpt.m3u8
- 
-#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://visaodigital.sytes.net/picons/rtp2.png" group-title="General Streams",RTP 2-a
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
- 
-#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="RTP 2" tvg-logo="http://visaodigital.sytes.net/picons/rtp2.png" group-title="General Streams",RTP 2-b
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2.smil/chunklist_b600000_slpt.m3u8
- 
- 
-#EXTINF:-1 tvg-ID="sic.pt" tvg-name="SIC" tvg-logo="http://visaodigital.sytes.net/picons/sic.png" group-title="General Streams",SIC
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/03.m3u8
- 
-#EXTINF:-1 tvg-ID="sic.pt" tvg-name="SIC" tvg-logo="http://visaodigital.sytes.net/picons/sic.png" group-title="General Streams",SIC-b
-http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/chunklist_w1553974896_b2328000_slpt.m3u8
- 
-#EXTINF:-1 tvg-ID="TVI.pt" tvg-name="TVI" tvg-logo="http://visaodigital.sytes.net/picons/tvi.png" group-title="General Streams",TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
- 
-#EXTINF:-1 tvg-ID="RTPNinformacao.pt" tvg-name="RTP 3" tvg-logo="http://visaodigital.sytes.net/picons/rtp3.png" group-title="General Streams",RTP 3
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
- 
-#EXTINF:-1 tvg-ID="RTPNinformacao.pt" tvg-name="RTP 3" tvg-logo="http://visaodigital.sytes.net/picons/rtp3.png" group-title="General Streams",RTP 3
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
- 
-#EXTINF:-1 tvg-ID="" tvg-name="RTP ACORES" tvg-logo="http://visaodigital.sytes.net/picons/rtpacores.png" group-title="General Streams",RTP ACORES
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
- 
-#EXTINF:-1 tvg-ID="" tvg-name="RTP ACORES" tvg-logo="http://visaodigital.sytes.net/picons/rtpacores.png" group-title="General Streams",RTP ACORES
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores.smil/chunklist_b600000_slpt.m3u8
- 
-#EXTINF:-1 tvg-ID="" tvg-name="RTP AFRICA" tvg-logo="http://visaodigital.sytes.net/picons/rtpafrica.png" group-title="General Streams",RTP AFRICA
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
- 
-#EXTINF:-1 tvg-ID="" tvg-name="RTP AFRICA" tvg-logo="http://visaodigital.sytes.net/picons/rtpafrica.png" group-title="General Streams",RTP AFRICA
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica.smil/chunklist_b600000_slpt.m3u8
- 
-#EXTINF:-1 tvg-ID="RTPMadeira.pt" tvg-name="RTP MADEIRA" tvg-logo="http://visaodigital.sytes.net/picons/rtpmadeira.png" group-title="General Streams",RTP MADEIRA
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira_5ch1016h264H14.stream/livestream.m3u8
- 
-#EXTINF:-1 tvg-ID="RTPMadeira.pt" tvg-name="RTP MADEIRA" tvg-logo="http://visaodigital.sytes.net/picons/rtpmadeira.png" group-title="General Streams",RTP MADEIRA
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira.smil/chunklist_b600000_slpt.m3u8
- 
-#EXTINF:-1 tvg-ID="rtpmemoria.pt" tvg-name="RTP MEMORIA" tvg-logo="http://visaodigital.sytes.net/picons/rtpmemoria.png" group-title="General Streams",RTP MEMORIA
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
- 
-#EXTINF:-1 tvg-ID="rtpmemoria.pt" tvg-name="RTP MEMORIA" tvg-logo="http://visaodigital.sytes.net/picons/rtpmemoria.png" group-title="General Streams",RTP MEMORIA
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem.smil/chunklist_b600000_slpt.m3u8
- 
-#EXTINF:-1 tvg-ID="TVI24.pt" tvg-name="TVI 24" tvg-logo="http://visaodigital.sytes.net/picons/tvi24.png" group-title="General Streams",TVI 24
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
- 
-#EXTINF:-1 tvg-ID="TVI24.pt" tvg-name="TVI 24" tvg-logo="http://visaodigital.sytes.net/picons/tvi24.png" group-title="General Streams",TVI 24
-http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
- 
-#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal",CMTV [SD]
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3236.m3u8
- 
-#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="http://ptbrvirtual.com/images/chanels/RTP_INTERNACIONAL.PNG",RTP INTERNACIONAL
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
- 
-#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="http://ptbrvirtual.com/images/chanels/RTP_INTERNACIONAL.PNG",RTP INTERNACIONAL
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi.smil/chunklist_b600000_slpt.m3u8
- 
-#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="http://visaodigital.sytes.net/picons/sicnoticias.png" group-title="General Streams",SIC NOTICIAS
-http://213.13.26.12:1935/live/sicnoticias/hasbahca.m3u8
- 
-#EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-logo="http://images.cdn.impresa.pt/sicnot/2014-09-17-sic_internacional.png",SIC INTERNACIONAL
-http://213.13.26.11:1935/live/sic/magellan.m3u8
- 
-#EXTINF:-1 tvg-ID="SicCaras.pt" tvg-name="SIC CARAS" tvg-logo="http://visaodigital.sytes.net/picons/siccaras.png" group-title="General Streams",SIC CARAS
- 
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-logo="http://i.imgur.com/cK4NPF1.jpg",TVI REALITY
-http://62.210.88.244:1935/liverepeat/TVIReality24/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-logo="http://i.imgur.com/cK4NPF1.jpg",TVI Reality
-http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
- 
-#EXTINF:-1 tvg-ID="EconomicaTV.pt" tvg-name="ECONOMICO TV" tvg-logo="http://visaodigital.sytes.net/picons/etv.png" group-title="General Streams",ECONOMICO TV
-http://213.13.26.12:1935/live/etv_direto/hasbahca.m3u8
- 
-#EXTINF:-1 tvg-ID="ARTV.pt" tvg-name="CANAL PARLAMENTO" tvg-logo="http://visaodigital.sytes.net/picons/artv.png" group-title="General Streams",CANAL PARLAMENTO
-rtsp://www.canal.parlamento.pt/Live
- 
-#EXTINF:-1 tvg-ID="EurosportNews.pt" tvg-name="EUROSPORT NEWS" tvg-logo="http://visaodigital.sytes.net/picons/eurosportnews.png" group-title="General Streams",EUROSPORT NEWS
-http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
- 
-#EXTINF:-1, tvg-logo="http://www.thecities.com.br/imagens/Brasil/Conhe&ccedil;a_o_Brasil/0_1274980443.7308.jpg",Canais do Brasil
-http://62.210.248.96:11000
- 
-#EXTINF:0, BR:SBT
-http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8
- 
-#EXTINF:0,Tpa (Angola)
-http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/chunklist.m3u8?wowzasessionid=529717535
- 
- 
- 
- 
- 
- 
- 
- 
-#EXTINF:-1, tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg",DESPORTO
-http://62.210.248.96:11000
- 
-#EXTINF:-1 tvg-ID="ABolaTV.pt" tvg-name="A BOLA TV" tvg-logo="http://visaodigital.sytes.net/picons/abola.png" group-title="General Streams",A BOLA TV-a
-http://ptbrvirtual.no-ip.net:8000/live/joe/joe/56.m3u8
- 
- 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTING TV" tvg-logo="http://visaodigital.sytes.net/picons/sportingtv.png" group-title="General Streams",SPORTING TV-a
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/34.m3u8
- 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTING TV" tvg-logo="http://visaodigital.sytes.net/picons/sportingtv.png" group-title="General Streams",SPORTING TV-b
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/34.m3u8
- 
-#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="BENFICA TV 1" tvg-logo="http://visaodigital.sytes.net/picons/btv1.png" group-title="General Streams",BENFICA TV 1 [Opcao 2]
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/33.m3u8
- 
-#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="BENFICA TV 1" tvg-logo="http://visaodigital.sytes.net/picons/btv1.png" group-title="General Streams",BENFICA TV 1 [Opcao 3]
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/33.m3u8
- 
-#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="BENFICA TV 1" tvg-logo="http://visaodigital.sytes.net/picons/btv1.png" group-title="General Streams",BENFICA TV 1 [Opcao 4]
-http://skyiptv.ddns.net:8000/live/shima/shima/416.m3u8
- 
-#EXTINF:0,BENFICA TV 2
-http://skyiptv.ddns.net:8000/live/shima/shima/674.m3u8
- 
-#EXTINF:-1,SPORTV2 BRASILEIRO
-http://37.203.209.34:443/mobile/bob06/live.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORTV 1" tvg-logo="http://visaodigital.sytes.net/picons/sportv1.png" group-title="General Streams",SPORTV 1 [outra]
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORTV 1" tvg-logo="http://visaodigital.sytes.net/picons/sportv1.png" group-title="General Streams",SPORTV 1 [outra2]
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/28.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORTV 2" tvg-logo="http://visaodigital.sytes.net/picons/sportv2.png" group-title="General Streams",SPORTV 2 [outra]
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORTV 2" tvg-logo="http://visaodigital.sytes.net/picons/sportv2.png" group-title="General Streams",SPORTV 2 [outra2]
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/29.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORTV 2" tvg-logo="http://visaodigital.sytes.net/picons/sportv2.png" group-title="General Streams",SPORTV 2 [outra3]
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/29.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORTV 3" tvg-logo="http://visaodigital.sytes.net/picons/sportv3.png" group-title="General Streams",SPORTV 3 HD
-xxxxxx->/231.ts
- 
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORTV 3" tvg-logo="http://visaodigital.sytes.net/picons/sportv3.png" group-title="General Streams",SPORTV 3 [outra]
-http://31.204.128.112:8081/live/portugal3/playlist.m3u8
- 
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORTV 3" tvg-logo="http://visaodigital.sytes.net/picons/sportv3.png" group-title="General Streams",SPORTV 3 [outra2]
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/30.m3u8
- 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 4" tvg-logo="http://visaodigital.sytes.net/picons/sportv4.png" group-title="General Streams",SPORTV 4
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/31.m3u8
- 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 5" tvg-logo="http://visaodigital.sytes.net/picons/sportv5.png" group-title="General Streams",SPORTV 5
-http://ptbrvirtual.no-ip.net:8000/live/salvador/salvador/32.m3u8
- 
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas HD
-http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
- 
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",Sport Tv Americas
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
- 
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",640P
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
- 
-#EXTINF:-1 tvg-id="sporttvamericas.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SPORT%20TV%20AMERICAS.jpg",SPORT TV AMÉRICAS HD
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
- 
-#EXTINF:-1 tvg-ID="RealMadridTV.pt" tvg-name="REAL MADRID TV" tvg-logo="http://visaodigital.sytes.net/picons/realmadridtv.png" group-title="General Streams",REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:0, ESPN HD
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
- 
-#EXTINF:0, ESPN + HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
-http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
- 
- 
- 
- 
- 
-#EXTINF:-1, tvg-logo="http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-computador.jpg",FILMES E SERIES
-http://62.210.248.96:11000
- 
- 
- 
-#EXTINF:0,Tv Cine 2
-http://skyiptv.ddns.net:8000/live/salvatore/salvatore/420.m3u8
- 
-#EXTINF:0,Tv Cine 4
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/27.m3u8
- 
-#EXTINF:-1 tvg-ID="" tvg-name="TVC SERIES HD" tvg-logo="http://visaodigital.sytes.net/picons/tvshd.png" group-title="General Streams",TV SERIES HD-a
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/6.m3u8
- 
-#EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo="http://www.novidadestv.com/wp-content/uploads/2011/06/fox_movies_destak.png",FOX MOVIES-a
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/104.m3u8
- 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://www.maxmegatvonlinehd.com/wp-content/uploads/2015/07/axn_logo.jpg",AXN HD
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/37.m3u8
- 
-#EXTINF:-1 tvg-id="AXN WHITE" tvg-logo="http://www.brief.pl/_files/img_sites/KGK/AXN_White12.jpg.png",AXN WHITE-a
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/45.m3u8
- 
-#EXTINF:-1 tvg-id="AXN BLACK" tvg-logo="http://cdn.sptdigital.com/sites/pt.axnblack/files/logo.png",AXN BLACK
-xxxxxx->/2919.ts
- 
-#EXTINF:-1, tvg-id="CANAL HOLLYWOOD" tvg-logo="http://3.bp.blogspot.com/-vRwVHF4JH3c/TyGSd51yreI/AAAAAAAAA9c/kay4KP2LPSI/s1600/533px-Canal_Hollywood.svg_.png",HOLLYWOOD
-http://ptbrvirtual.no-ip.net:8000/live/joe/joe/13.m3u8
- 
- 
-#EXTINF:-1 tvg-id="CINE MUNDO" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg",CINE MUNDO-a
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/106.m3u8
- 
- 
- 
- 
- 
-#EXTINF:-1,tvg-logo="http://www.fajalta.pt/wp-content/uploads/2015/09/m%C3%BAsica-1.jpg",CANAIS MUSICA
-http://62.210.248.96:11000
- 
- 
- 
-#EXTINF:-1 tvg-id="VH1" tvg-logo="http://www.saluto.tv/media/1102/vh1-tran-back.png",VH1
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
- 
-#EXTINF:-1 tvg-id="VH1 CLASSIC" tvg-logo="http://www.vh1.com/franchises/config/themes/vh1classic/281x211_logo.png",VH1 CLASSIC
- 
-#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-logo="http://1.bp.blogspot.com/_bIcbwuf9v-U/StnGbCixNOI/AAAAAAAAKVs/NwNlXv2_ZKg/s400/MTV_Black.png",MTV PORTUGAL
-http://95.211.186.215:8081/loadbalance/18639512978237747375/playlist.m3u8
- 
-#EXTINF:-1, VEVO 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
- 
-#EXTINF:-1, VEVO 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
- 
-#EXTINF:-1, VEVO 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
- 
-#EXTINF:-1 tvg-id="MTV MUSIC" tvg-logo="http://www.electro-tunis.tn/img/cms/MTV_Logo-svg.png",MTV MUSIC´
- 
- 
-#EXTINF:-1 tvg-id="MTV ROCKS" tvg-logo="http://www.inteligemcia.com.br/wp-content/uploads/2013/07/mtv-rocks.png",MTV ROCKS
- 
- 
-#EXTINF:-1 tvg-id="MTV DANCE" tvg-logo="http://unidance73.ru/skin/common_files/images/styles/mtv-dance.png",MTV DANCE
- 
- 
-#EXTINF:-1 tvg-id="MCM TOP" tvg-logo="http://img3.wikia.nocookie.net/__cb20100309204504/logopedia/images/thumb/6/6e/MCM_Top.svg/500px-MCM_Top.svg.png",MCM TOP
- 
- 
-#EXTINF:-1 tvg-id="MCM POP" tvg-logo="http://cyril.bourreau.free.fr/Vectoriel/MCMPop.png",MCM POP
- 
-#EXTINF:-1, tvg-logo="http://diariodigital.sapo.pt/images_content/2014/Tom&Jerry.jpg",DESENHOS ANIMADOS
-http://62.210.248.96:11000
- 
-#EXTINF:-1 tvg-id="JIMJAM" tvg-logo="http://cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM2B2.png",JIM JAM
-Link do canal com email:XXXXXXXXXX
- 
-#EXTINF:-1 tvg-id="BABY TV" tvg-logo="http://mimosytetablog.com/wp-content/uploads/2014/07/mzl.ikmioaca.png",BABY TV
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/229.m3u8
- 
- 
-#EXTINF:-1 tvg-id="SIC KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png",SIC KIDS Off
- 
- 
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://img1.wikia.nocookie.net/__cb20111202090722/logopedia/images/2/2b/Cartoon_Network_2010.png",CARTOON NETWORK Off
- 
- 
-#EXTINF:-1, tvg-id="NICKELODEON" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png",NICKELODEON Off
- 
- 
-#EXTINF:-1, tvg-id="DISNEY JUNIOR" tvg-logo="https://cdn.thewaltdisneycompany.com/sites/default/files/Gallery-DisneyJunior_logo_CMYK.jpg",DISNEY JUNIOR
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/50.m3u8
- 
- 
-#EXTINF:-1 tvg-ID="24Kitchen.pt" tvg-name="24 KITCHEN HD" tvg-logo="http://visaodigital.sytes.net/picons/24kitchenhd.png" group-title="General Streams",24 KITCHEN HD
-xxxxxx->/1651.ts
- 
-#EXTINF:-1, tvg-id="DISNEY CHANNEL" tvg-logo="http://www.reporternuovo.it/files/2014/10/Disney_channel_2007.png",DISNEY CHANNEL
-xxxxxx->/2714.ts
- 
-#EXTINF:-1, tvg-id="DISNEY CHANNEL" tvg-logo="http://www.reporternuovo.it/files/2014/10/Disney_channel_2007.png",DISNEY CHANNEL-a
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/10.m3u8
- 
-#EXTINF:-1, tvg-id="CANAL PANDA" tvg-logo="http://geronimostilton.com.cdn-immedia.net/upload/assets/files/PT,103,pt,8129/22492.png",CANAL PANDA
-xxxxxx->/2713.ts
- 
-#EXTINF:-1, tvg-id="CANAL PANDA" tvg-logo="http://geronimostilton.com.cdn-immedia.net/upload/assets/files/PT,103,pt,8129/22492.png",CANAL PANDA-a
-http://ptbrvirtual.no-ip.net:8000/live/ricardo1/ricardo1/11.m3u8
- 
-#EXTINF:-1,DOCUMENTÁRIOS
-http://62.210.248.96:11000
- 
- 
- 
-#EXTINF:-1,  tvg-logo="http://4.bp.blogspot.com/-mN85xYs-CA8/UVazWk8pjgI/AAAAAAAADNk/fWkrxW1gUJs/s1600/REGI%C3%95ES+PORT.png",Regionais
-http://62.210.248.96:11000
- 
-#EXTINF:-1,TV LISBOA
-http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
- 
-#EXTINF:-1,TV CANÇÃO NOVA PORTUGAL HD
-http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/xlpartner-cancaonova/_definst_/live/stream1.m3u8
- 
-#EXTINF:-1,TV MANÁ-1
-http://195.22.19.179:1935/manasat/manasat1/live.m3u8
- 
-#EXTINF:-1,IGREJA ONLINE TV
-http://195.22.19.179:1935/igronl/igronline1/live.m3u8
- 
-#EXTINF:-1,SANTUÁRIO DE FÁTIMA – CAPELINHA DAS APARIÇÕES FULL HD
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
- 
-#EXTINF:-1,ODIVELAS TV HD
-http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
- 
-#EXTINF:-1,PRAIA CARCAVELOS [WEBCAM]
-http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA COSTA DA CAPARICA [WEBCAM]
-http://213.13.26.11:1935/live/costa.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA DA ERICEIRA [WEBCAM]
-http://213.13.26.11:1935/live/ericeira.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA DA LUZ [WEBCAM]
-http://213.13.26.11:1935/live/luz.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA DA BARRA - AVEIRO [WEBCAM] off
-http://213.13.26.11:1935/live/aveiro.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA DE ESPINHO [WEBCAM]
-http://213.13.26.11:1935/live/espinho.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA DE PENICHE [WEBCAM]
-http://213.13.26.11:1935/live/peniche.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA DE SÃO PEDRO [WEBCAM]
-http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA DO GUINCHO [WEBCAM]
-http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA DO NORTE [WEBCAM]
-http://213.13.26.11:1935/live/norte.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA GRANDE [WEBCAM]
-http://213.13.26.11:1935/live/grande.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA LEÇA DA PALMEIRA [WEBCAM]
-http://213.13.26.11:1935/live/leca.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA LIGA MOCHE SURFE [WEBCAM]
-http://213.13.26.11:1935/live/surfstream.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA MADEIRA JARDIM DO MAR [WEBCAM]
-http://213.13.26.11:1935/live/jardim.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA MATOSINHOS [WEBCAM]
-http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA RIBEIRA [WEBCAM]
-http://213.13.26.11:1935/live/ribeira.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA SANTA CRUZ
-http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
- 
-#EXTINF:-1,PRAIA SUPER TUBOS [WEBCAM]
-http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
- 
-#EXTINF:-1,  tvg-logo="http://feviana.com.br/wp-content/uploads/2014/06/+181-1.jpg",Porno
-http://62.210.248.96:11000
- 
-#EXTINF:-1,PT:X
-xxxxxx->/3194.ts
- 
-#EXTINF:-1 tvg-ID="Hot.pt" tvg-name="HOT" tvg-logo="http://visaodigital.sytes.net/picons/hot.png" group-title="General Streams",HOT
-xxxxxx->/2710.ts
- 
-EXTINF:-1,Adult:WOW Girls
-xxxxxx->/3664.ts
- 
-#EXTINF:-1,Redlight XXX
-xxxxxx->/3583.ts
- 
-#EXTINF:-1,Adult:Private
-xxxxxx->/3556.ts
- 
-#EXTINF:-1,Adult Taq X
-xxxxxx->/3557.ts
- 
-#EXTINF:-1,Adult:Hustler HD
-xxxxxx->/3309.ts
- 
-#EXTINF:-1,Adult: Primafila Hot Club 9
-xxxxxx->/3244.ts
- 
-#EXTINF:-1,Adult: Primafila Hot Club 8
-xxxxxx->/3243.ts
- 
-#EXTINF:-1,Adult: Primafila Hot Club 7
-xxxxxx->/3242.ts
- 
-#EXTINF:-1,Adult: Primafila Hot Club 6
-xxxxxx->/3241.ts
- 
-#EXTINF:-1,Adult: Primafila Hot Club 5
-xxxxxx->/3240.ts
- 
-#EXTINF:-1,Adult: Primafila Hot Club 4
-xxxxxx->/3239.ts
- 
-#EXTINF:-1,Adult: Primafila Hot Club 3
-xxxxxx->/3238.ts
- 
-#EXTINF:-1,Adult: Primafila Hot Club 2
-xxxxxx->/3237.ts
- 
-#EXTINF:-1,Adult: Primafila Hot Club 10
-xxxxxx->/3245.ts
- 
-#EXTINF:-1,Adult: Primafila Hot Club 1
-xxxxxx->/3236.ts
- 
-#EXTINF:-1,Adult: Meiden van Holland Hard NL
-xxxxxx->/3232.ts
- 
-#EXTINF:-1,Adult:Venus
-xxxxxx->/3234.ts
- 
-#EXTINF:-1,Adult:PINK Erotic
-xxxxxx->/3225.ts
- 
-#EXTINF:-1,Adult:PINK EROTIC 2
-xxxxxx->/3228.ts
- 
-#EXTINF:-1,Adult:PINK EROTIC 3
-xxxxxx->/3227.ts
- 
-#EXTINF:-1,Adult:PINK EROTIC 4
-xxxxxx->/3226.ts
- 
-#EXTINF:-1,18 XXL
-xxxxxx->/3192.ts
- 
-#EXTINF:-1 tvg-ID="" tvg-name="PLAYBOY" tvg-logo="http://visaodigital.sytes.net/picons/playboy.png" group-title="General Streams",PLAYBOY
-xxxxxx->/3185.ts
- 
-#EXTINF:-1,18 PASSIE XXX
-xxxxxx->/3184.ts
- 
-#EXTINF:-1,18 HD JASMIN
-xxxxxx->/3179.ts
- 
-#EXTINF:-1,18 РУССКАЯ НОЧЬ
-xxxxxx->/3193.ts
- 
-#EXTINF:-1,18 BRAZZERS
-xxxxxx->/3175.ts
- 
-#EXTINF:-1,Adult:Brazzers.com
-xxxxxx->/2656.ts
- 
-#EXTINF:-1,  tvg-logo="http://www.thecities.com.br/imagens/Brasil/Conhe&ccedil;a_o_Brasil/0_1274980443.7308.jpg",Canais do Brasil
-http://62.210.248.96:11000
- 
-#EXTINF:-1,AGRO BRASIL MS
-http://69.162.116.218:1935/flixtv/agrobrasil_240p/live.m3u8
-#EXTINF:-1,AGRO CANAL MS
-http://srvvenus.canaldoboi.com.br:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,BOA VONTADE TV
-http://flash1.crossdigital.com.br:1935/755/755/live.m3u8
-#EXTINF:-1,CANAL 21 PR
-http://wowza.catve.com.br:1935/live2/livestream/live.m3u8
-#EXTINF:-1,CANAL DE TUPÃ SP
-http://video.sinoinformatica.com.br:1935/cmtupa-live/sessaoaovivo/livestream.m3u8
-#EXTINF:-1,CANAL DO BOI MS HD
-http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,CANAL RURAL RS
-http://7149o.ls.azioncdn.net:1935/7149o/access_options/rtmp-live/canal_rural.sdp/livestream.m3u8
-#EXTINF:-1,CANÇÃO NOVA SE 640p
-http://cnhls-lh.akamaihd.net:80/i/cnhls_1@147036/index_508_av-b.m3u8
-#EXTINF:-1,CARIRI TV PB 640p
-http://streaming50.sitehosting.com.br:1935/cariritv/cariritv/live.m3u8
-#EXTINF:-1,CASCAVEL [CÂMERA 1]
-http://wowza.catve.com.br:1935/camera/livestream/live.m3u8
-#EXTINF:-1,CASCAVEL [CÂMERA 2]
-http://wowza.catve.com.br:1935/camera2/livestream/live.m3u8
-#EXTINF:-1,CASCAVEL CIRO NARDI [CÂMERA 4]
-http://stream.catve.com.br:1935/camera4/camera4.stream/live.m3u8
-#EXTINF:-1,CATVE PR
-http://stream.catve.com.br:1935/catve/livestream/live.m3u8
-#EXTINF:-1,CÉU DE ARACAJU [WEBCAM]
-http://flash.asaweb.com.br:1935/8326/8326/live.m3u8
-#EXTINF:-1,CJC RJ 640p
-http://flash1.crossdigital.com.br:1935/ponto85/ongrace/live.m3u8
-#EXTINF:-1,CONEXÃO BR MS HD
-http://srvvenus.canaldoboi.com.br:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,CWB TV PR
-http://38.96.175.108:1935/cwbtv/cwbtv/live.m3u8
-#EXTINF:-1,DEMAIS TV SP
-http://wz3.dnip.com.br:1935/dmtv/dmtv.sdp/live.m3u8
-#EXTINF:-1,ESPORTE INTERATIVO HD
-http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eitv480.m3u8
-#EXTINF:-1,ESPORTE INTERATIVO HD OP 02
-http://ei.live-ss-cct.stormsec.com.br:80/live/Evento1.smil/chunklist_b1300000.m3u8
-#EXTINF:-1,ESPORTE INTERATIVO MAXX 640p
-http://ei.live-ss-cct.stormsec.com.br:80/live/Evento3.smil/chunklist_b850000.m3u8
-#EXTINF:-1,ESPORTE INTERATIVO MAXX HD
-http://ei.live-ss-cct.stormsec.com.br:80/live/Evento3.smil/chunklist_b1300000.m3u8
-#EXTINF:-1,ESPORTE INTERATIVO MAXX 2
-http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine480.m3u8
-#EXTINF:-1,ESPORTE INTERATIVO MAXX 2 HD
-http://wpc.16654.sigmacdn.net:80/hls-live/2016654/Evento1/EITV/eine720.m3u8
-#EXTINF:-1,ESPORTE INTERATIVO SD
-http://ei.ss-lisa.eiplus.com.br:80/live/evento1.stream_240p/livestream.m3u8
-#EXTINF:-1,ESTÉTICA TV 640p
-http://srv6.zoeweb.tv:1935/z456-live/stream/livestream.m3u8
-#EXTINF:-1,FONTE TV GO
-http://flash.softhost.com.br:1935/fonte/fontetv.stream/live.m3u8
-#EXTINF:-1,FOZ DO IGUAÇU [CÂMERA 2]
-http://wowza.catve.com.br:1935/camera2/camera2.stream/live.m3u8
-#EXTINF:-1,IMPD TV SP
-http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
-#EXTINF:-1,IPB TV
-http://ec2-184-73-91-175.compute-1.amazonaws.com:1935/live/ipbtv400.sdp/livestream.m3u8
-#EXTINF:-1,LEMBRANÇA TV
-http://96.47.239.167:1935/lembranca/lembrancatv/live.m3u8
-#EXTINF:-1,MKK WEB TV
-http://media-webservic.com:1935/agdzqzss/agdzqzss/live.m3u8
- 
-#EXTINF:-1,MULTI TV
-http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
-#EXTINF:-1,NBR
-http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvnbr/live.m3u8
-#EXTINF:-1,NGT
-http://srv3.zoeweb.tv:1935/z403-live/stream/livestream.m3u8
-#EXTINF:-1,NOVA TV RJ
-http://rtmp.cdn.upx.net.br:1935/1e5a/myStream.sdp/live.m3u8
-#EXTINF:-1,NOVO CANAL MS
-http://srvvenus.canaldoboi.com.br:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
- 
-#EXTINF:-1,PFC
-http://31.204.128.112:8081/live/pfc/playlist.m3u8
-#EXTINF:-1,PLENITUDE TV 640p
-http://painelvideo.com:1935/iaptd/iaptd/live.m3u8
-#EXTINF:-1,POÁ TV RS
-http://iphone-streaming.ustream.tv:80/uhls/12354507/streams/live/playlist.m3u8
-#EXTINF:-1,PRAIA DE COPACABANA RJ [CÂMERA 1]
-http://video1.earthcam.com:1935/fecnetwork/6593.flv/live.m3u8
-#EXTINF:-1,PRAIA DE COPACABANA RJ [CÂMERA 2]
-http://video2.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
-#EXTINF:-1,PRAIA DE COPACABANA RJ [CÂMERA 4]
-http://video4.earthcam.com:1935/fecnetwork/6593.flv/playlist.m3u8
-#EXTINF:-1,PREMIERE 1
-http://62.210.82.241:1935/liverepeat/fut01/live.m3u8
-#EXTINF:-1,PREMIERE 2
-http://62.210.82.241:1935/liverepeat/fut02/live.m3u8
-#EXTINF:-1,PREMIERE 3
-http://62.210.82.241:1935/liverepeat/fut05/live.m3u8
-#EXTINF:-1,PREMIERE 4
-http://62.210.82.241:1935/liverepeat/fut06/live.m3u8
-#EXTINF:-1,PREMIERE 5
-http://62.210.82.241:1935/liverepeat/fut07/live.m3u8
-#EXTINF:-1,PREMIERE 6
-http://62.210.82.241:1935/liverepeat/fut09/live.m3u8
-#EXTINF:-1,PREMIERE 7
-http://62.210.82.241:1935/liverepeat/fut1022842/live.m3u8
-#EXTINF:-1,PREMIERE 8
-http://62.210.82.241:1935/liverepeat/fut1123402/live.m3u8
-#EXTINF:-1,PREMIERE 9
-http://62.210.82.241:1935/liverepeat/fut12/live.m3u8
-#EXTINF:-1,PROVISÃO TV HD
-http://srv3.zoeweb.tv:1935/z98-live/stream/livestream.m3u8
-#EXTINF:-1,PUC TV GO HD
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1,RÁDIO
-http://rsync.com.br:1935/rsync00025/rsync.sdp/live.m3u8
-#EXTINF:-1,RÁDIO 104.9 FM
-http://srv6.zoeweb.tv:1935/z306-live/stream/livestream.m3u8
-#EXTINF:-1,RÁDIO CACIQUE AM 760
-http://srv6.zoeweb.tv:1935/z631-live/stream/livestream.m3u8
-#EXTINF:-1,RÁDIO CBN RJ
-http://media.sgr.globo.com:1935/VideoCBN/cbnrj1.sdp/live.m3u8
-#EXTINF:-1,RÁDIO CBN SP
-http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
-#EXTINF:-1,RÁDIO GLOBO 1100 AM SP
-http://media.sgr.globo.com:1935/VideoRadioGlobo/gamsp1.sdp/live.m3u8
-#EXTINF:-1,RÁDIO GLOBO 98.1 FM RJ
-http://media.sgr.globo.com:1935/VideoRadioGlobo/gamrj2.sdp/live.m3u8
-#EXTINF:-1,RÁDIO RURAL DE GUARABIRA
-http://srv6.zoeweb.tv:1935/z376-live/stream/livestream.m3u8
-#EXTINF:-1,RÁDIO SENTINELA DO VALE SC
-http://rtmp.cdn.upx.net.br:1935/0be3_live2/myStream.sdp/live.m3u8
-#EXTINF:-1,RÁDIO VOX 90.3 FM – STUDIO
-http://rtmp.cdn.upx.net.br:1935/00093_1/myStream.sdp/live.m3u8
-#EXTINF:-1,RECORD ES
-http://fast-fortress-4864.herokuapp.com:80/flash.midiaip.com.br:1935/tvvitoria/Sample1/live.m3u8
-#EXTINF:-1,RECORD MT
-http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8
-#EXTINF:-1,RECORD PB
-http://174.37.99.198:1935/dvrid1816/1816/DVR.m3u8
-#EXTINF:-1,RECORD PE
-http://rtmp.cdn.upx.net.br:1935/00161/myStream.sdp/live.m3u8
-#EXTINF:-1,RECORD PR
-http://69.46.0.170:1935/ricpr/ric.sdp/live.m3u8
-#EXTINF:-1,RECORD SP
-http://31.204.128.112:8081/live/record/playlist.m3u8
-#EXTINF:-1,REDE BRASIL TV SP
-http://78.46.36.212:1935/redebrasiltv/redebrasiltv/live.m3u8
-#EXTINF:-1,REDE CORREIO TV PB
-http://flash1.crossdigital.com.br:1935/491/491/live.m3u8
-#EXTINF:-1,REDE EVANGELIZAR PR
-http://streaming01.sulaovivo.com.br:1935/redeevangelizar2/redeevangelizar2/live.m3u8
-#EXTINF:-1,REDE GOSPEL SP
-http://media.igospel.com.br:1935/live/redegospel/livestream.m3u8
-#EXTINF:-1,REDE SÉCULO 21 SP
-http://257919-lh.akamaihd.net:80/i/TVSeculo21_hdlive@145740/index_250_av-p.m3u8
-#EXTINF:-1,REDE TV
-http://31.204.128.112:8081/live/redetv/playlist.m3u8
-#EXTINF:-1,REDE TV IN SP
-http://wz3.dnip.com.br:1935/redetvin/redetvin.sdp/live.m3u8
-#EXTINF:-1,REDE TV PR
-http://108.168.158.146:1935/live/ngrp:tvsudoeste_all/livestream.m3u8
-#EXTINF:-1,REDE TV RN
-http://iphone-streaming.ustream.tv:80/uhls/18388615/streams/live/playlist.m3u8
-#EXTINF:-1,REDE TV SP
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-#EXTINF:-1,REDE VIDA SP
-http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
-#EXTINF:-1,SANTUÁRIO DE APARECIDA – CANAL 1
-http://69.46.0.170:1935/santuario_aparecida/canal1.stream/live.m3u8
-#EXTINF:-1,SANTUÁRIO DE APARECIDA – CAPELA DO SANTÍSSIMO
-http://69.46.0.170:1935/santuario_aparecida/canal3.stream/live.m3u8
-#EXTINF:-1,SANTUÁRIO DE APARECIDA – CAPELA SÃO JOSÉ
-http://69.46.0.170:1935/santuario_aparecida/canal4.stream/live.m3u8
-#EXTINF:-1,SANTUÁRIO DE APARECIDA – NICHO
-http://69.46.0.170:1935/santuario_aparecida/canal2.stream/live.m3u8
-#EXTINF:-1,SANTUÁRIO DE APARECIDA – SANTUÁRIO NACIONAL
-http://69.46.0.170:1935/santuario_aparecida/canal6.stream/live.m3u8
-#EXTINF:-1,SBT
-http://31.204.128.112:8081/live/sbt/playlist.m3u8
-#EXTINF:-1,SBT HD
-http://gbbrlive.sambatech.com.br:80/hls-live/livepkgr/sbt99_8fcdc5f0f8df8d4de56b22a2c6660470/liveevent/livestream.m3u8
-#EXTINF:-1,SBT RJ
-http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/playlist.m3u8
-#EXTINF:-1,SBT SP
-http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
-#EXTINF:-1,SESC TV SP
-http://srv6.zoeweb.tv:1935/zt2/stream/live.m3u8
-#EXTINF:-1,SKY GOSPEL WEB TV HD
-http://fms.skyradios.com.br:1935/skylive/skylive/live.m3u8
-#EXTINF:-1,SPORTV
-http://31.204.128.112:8081/live/sportv/playlist.m3u8
-#EXTINF:-1,SPORTV 2
-http://31.204.128.112:8081/live/sportv2/playlist.m3u8
-#EXTINF:-1,TERCEIRO ANJO TV
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1,TV ABCD 640P
-http://streaming50.sitehosting.com.br:1935/tvabcd/tvabcd/live.m3u8
-#EXTINF:-1,TV ADNP
-http://srv6.zoeweb.tv:1935/z330-live/stream/livestream.m3u8
-#EXTINF:-1,TV ANTARES PR
-http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
-#EXTINF:-1,TV APARECIDA SP
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1,TV APERIPÊ SE
-http://d22fash3pgubk9.cloudfront.net:80/tvaperipe/aovivo/live.m3u8
-#EXTINF:-1,TV ARCA DA ALIANÇA SP
-http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8
-#EXTINF:-1,TV ASSEMBLEIA CE
-http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
-#EXTINF:-1,TV ASSEMBLEIA MG
-http://stream300.overseebrasil.com.br:1935/live_almg_146/almg/livestream.m3u8
-#EXTINF:-1,TV ASSEMBLEIA RN
-http://srv6.zoeweb.tv:1935/z627-live/stream/livestream.m3u8
-#EXTINF:-1,TV ASSEMBLEIA SP HD
-http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
-#EXTINF:-1,TV BATATINHA
-http://srv6.zoeweb.tv:1935/z632-live/stream/livestream.m3u8
-#EXTINF:-1,TV BETHEL
-http://srv3.zoeweb.tv:1935/z116-live/stream/livestream.m3u8
-#EXTINF:-1,TV BRASIL 640P
-http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
-#EXTINF:-1,TV BRASIL ESPERANÇA SC
-http://streaming50.sitehosting.com.br:1935/francelino/francelino/live.m3u8
-#EXTINF:-1,TV BRUSQUE SC
-http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
-#EXTINF:-1,TV CACHOEIRO ES
-http://104.156.60.74:1935/tvdourado/tvdourado/live.m3u8
-#EXTINF:-1,TV CÂMARA DF HD
-http://stream2.camara.leg.br:80/camara-hls-live/tv1/camaraevent/TV1.m3u8
-#EXTINF:-1,TV CÂMARA RN
-http://srv6.zoeweb.tv:1935/z783-live/stream/livestream.m3u8
-#EXTINF:-1,TV CÂMARA SP
-http://wse.midiaserverbr.com:1935/jacarei/jacarei/live.m3u8
-#EXTINF:-1,TV CANAL 2 DF HD
-http://stream2.camara.leg.br:80/camara-hls-live/tv2/camaraevent/TV2.m3u8
-#EXTINF:-1,TV CANDIDÉS MG
-http://streaming49.sitehosting.com.br:1935/candides/candides_360p/live.m3u8
-#EXTINF:-1,TV CINEC PB 480P
-http://104.156.60.74:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:-1,TV CULTURA BA
-http://d22fash3pgubk9.cloudfront.net:80/tvbaiana/aovivo/live.m3u8
-#EXTINF:-1,TV CULTURA PR
-http://200.189.113.201:80/hls/tve.m3u8
-#EXTINF:-1,TV DC46 SP HD
-http://142.4.219.208:1935/robsonmarcelho474/robsonmarcelho474/live.m3u8
-#EXTINF:-1,TV DIÁRIO CE 480P
-http://gbbrlive.sambatech.com.br:80/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
-#EXTINF:-1,TV DIÁRIO DE CAMPOS
-http://streaming49.sitehosting.com.br:1935/cadripaes/cadripaes/live.m3u8
-#EXTINF:-1,TVE MS HD
-http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
-#EXTINF:-1,TV ESCOLA DF FULL HD
-http://gbbrlive.sambatech.com.br:80/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
-#EXTINF:-1,TV FAAP 10 ANOS SP
-http://midia.faap.br:80/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1,TV GAZETA AL HD
-http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
-#EXTINF:-1,TV GERAES MG
-http://flash.asaweb.com.br:1935/8466/8466/live.m3u8
-#EXTINF:-1,TV GERAL BA 640P
-http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
-#EXTINF:-1,TV GUARUJÁ SP
-http://wse.transmissaodigital.com:1935/3880/3880/live.m3u8
-#EXTINF:-1,TV GUARULHOS SP
-http://flash1.crossdigital.com.br:1935/476_1/476_1/live.m3u8
-#EXTINF:-1,TV IDEAL RJ
-http://192.254.73.162:1935/tvideal/tvideal/live.m3u8
-#EXTINF:-1,TV IMACULADA CONCEIÇÃO MS
-http://69.46.0.170:1935/ric_tvimaculada/ric.stream/live.m3u8
-#EXTINF:-1,TV IMOBILIÁRIA
-http://flash.asaweb.com.br:1935/8626/8626/live.m3u8
-#EXTINF:-1,TV IPQC
-http://streaming49.sitehosting.com.br:1935/tvipqc/tvipqc/live.m3u8
-#EXTINF:-1,TV JAGUAR CE
-http://78.46.36.212:1935/tvjaguar1/tvjaguar1/live.m3u8
-#EXTINF:-1,TV JESUS CRISTO 640P
-http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8
-#EXTINF:-1,TV LITORAL
-http://streaming50.sitehosting.com.br:1935/tvlitoral43/tvlitoral43/live.m3u8
-#EXTINF:-1,TV LITORAL SUL SC
-http://app.w7virtual.com:1935/canal20/canal20_250/live.m3u8
-#EXTINF:-1,TV MACEIÓ AL HD
-http://srv3.zoeweb.tv:1935/z46-live/stream/livestream.m3u8
-#EXTINF:-1,TV MAIS RIBEIRÃO
-http://189.113.13.138:1935/live/1065581/tvmaisribeirao/livestream.m3u8
-#EXTINF:-1,TV MANÁ
-http://195.22.19.189:1935/tvbr/tvbrasil1/live.m3u8
-#EXTINF:-1,TV MASTER PB
-http://70.38.71.93:1935/tvmaster/tvmaster/live.m3u8
-#EXTINF:-1,TV METROPOLITANA PR
-http://wse5.player.tv.br:1935/tvm1/tvm1/live.m3u8
-#EXTINF:-1,TV MISSÕES FULL HD
-http://wse5.player.tv.br:1935/tvmissoes/tvmissoes/live.m3u8
-#EXTINF:-1,TV MIX BRASIL RN HD
-http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
-#EXTINF:-1,TV MUNDO MAIOR SP 480P
-http://flash.asaweb.com.br:1935/8306/8306/live.m3u8
-#EXTINF:-1,TV NATAL RN
-http://iphone-streaming.ustream.tv:80/uhls/17104844/streams/live/playlist.m3u8
-#EXTINF:-1,TVN BRASIL DF
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1,TV NOVOS HORIZONTES 640P
-http://wse4.player.tv.br:1935/novoshorizontes/novoshorizontes/live.m3u8
-#EXTINF:-1,TV O FLU RJ
-http://srv6.zoeweb.tv:1935/z846-live/stream/livestream.m3u8
-#EXTINF:-1,TV ORKUT
-http://78.46.36.212:1935/tvorkut/tvorkut/live.m3u8
-#EXTINF:-1,TV OSASCO SP
-http://876807348.e.118261818.r.idglobalcdn.net:80/118261818/tvosasco/live.m3u8
-#EXTINF:-1,TV PONTO DE VISTA RJ
-http://streaming49.sitehosting.com.br:1935/professor/professor/live.m3u8
-#EXTINF:-1,TV SÃO CAETANO SP 640P
-http://webtvsaocaetano.flashencoder.acessaradios.com.br:443/webtvsaocaetano/webtvsaocaetano/live.m3u8
-#EXTINF:-1,TV SINDEEPRES HD
-http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/fx7-live_720p/livestream.m3u8
-#EXTINF:-1,TV SOM ZOOM CE
-http://srv3.zoeweb.tv:1935/z443-live/stream1/livestream.m3u8
-#EXTINF:-1,TV TODO DIA SP
-http://38.96.175.108:1935/tododia/tododia/live.m3u8
-#EXTINF:-1,TV TRANSAMÉRICA PR 480P
-http://31.204.128.112:8081/live/1/playlist.m3u8
-#EXTINF:-1,TVT SP HD
-http://gbbrlive.sambatech.com.br:80/hls-live/livepkgr/tvtabr_56fc38e9793ca9941f5203fab6e01263/liveevent/livestreamabr3.m3u8
-#EXTINF:-1,TV ULTRA FARMA DF HD
-http://wse.transmissaodigital.com:1935/cinealta4145/cinealta4145/live.m3u8
-#EXTINF:-1,TV UNICESUMAR PR
-http://69.46.0.170:1935/unicesumar/unicesumar.stream/live.m3u8
-#EXTINF:-1,TV UNIVATES HD
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/live.m3u8
-#EXTINF:-1,TV UP 640P
-http://69.46.0.170:1935/tvup/tvup.stream/live.m3u8
-#EXTINF:-1,TV URBANA RS
-http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
-#EXTINF:-1,TV VERDADE SC
-http://ocatv.mcgi.me:1935/public/247_br/live.m3u8
-#EXTINF:-1,TV VOTORANTIM SP
-http://198.20.107.218:1935/votorantim/votorantim/live.m3u8
-#EXTINF:-1,TV WEB CARIRI 640P
-http://streaming42.sitehosting.com.br:1935/felizar/felizar/live.m3u8
-#EXTINF:-1,TV WEB CIDADE PB
-http://streaming42.sitehosting.com.br:1935/tvweb/tvweb/live.m3u8
-#EXTINF:-1,TV WEB PARANÁ HD
-http://wse3.player.tv.br:1935/tvwebparana/tvwebparana/live.m3u8
-#EXTINF:-1,UNITV RS 480P
-http://unitvaovivo.ufrgs.br:8080/live.flv?livestream.m3u8
-#EXTINF:-1,VEM E VÊ TV SP
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8
-#EXTINF:-1,VEM E VÊ TV 1 SP
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/livestream.m3u8
-#EXTINF:-1,VEM E VÊ TV 2 SP
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
-#EXTINF:-1,VEM E VÊ TV 3 SP
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
-#EXTINF:-1,VIA MORENA TV MS
-http://wowza2.netpoint.com.br:1935/viamorena/live/livestream.m3u8
-#EXTINF:-1,WEB CAC TV RO
-http://173.236.34.138:1935/webtv01/webtv01/live.m3u8
-#EXTINF:-1,WEB TV GOSPEL 640P
-http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
-#EXTINF:-1,WEB TV MINAS
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
-#EXTINF:-1,WEB TV SA SP
-http://173.236.10.10:1935/webtvsa/webtvsa/live.m3u8
+# EXTM3U
+#EXTINF: -1,RTP1
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/1.ts
+#EXTINF: -1,RTP2
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/2.ts
+#EXTINF: -1,RTP 3
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/54.ts
+#EXTINF: -1,SIC
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/3.ts
+#EXTINF: -1,TVI
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/4.ts
+#EXTINF: -1,TVI24
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/29.ts
+#EXTINF: -1,SIC Notícias
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/32.ts
+#EXTINF: -1,CMTV
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/27.ts
+#EXTINF: -1,Porto Canal
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/36.ts
+#EXTINF: -1,TVI Reality - A Quinta
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/48.ts
+#EXTINF: -1,TVI Ficção
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/63.ts
+#EXTINF: -1,SIC Mulher
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/53.ts
+#EXTINF: -1,SIC Radical
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/76.ts
+#EXTINF: -1,Sic Caras
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/80.ts
+#EXTINF: -1,TV GLOBO
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/73.ts
+#EXTINF: -1,TV GLOBO PREMIUM
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/18.ts
+#EXTINF: -1,Gravar programas de TV
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/26.ts
+#EXTINF: -1,SPORT.TV 1 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/5.ts
+#EXTINF: -1,SPORT.TV uma HQ
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/96.ts
+#EXTINF: -1,SPORT.TV 2 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/6.ts
+#EXTINF: -1,SPORT.TV 3 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/7.ts
+#EXTINF: -1,SPORT.TV 4 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/8.ts
+#EXTINF: -1,SPORT.TV 5 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/9.ts
+#EXTINF: -1,BTV 1 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/10.ts
+#EXTINF: -1,BTV 1 HQ
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/98.ts
+#EXTINF: -1,BTV 2 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/11.ts
+#EXTINF: -1,PFC
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/95.ts
+#EXTINF: -1,Eurosport HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/61.ts
+#EXTINF: -1,Eurosport 2
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/101.ts
+#EXTINF: -1,Eurosport Notícias
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/87.ts
+#EXTINF: -1,http://iptv.zone SPORTING TV HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/105.ts
+#EXTINF: -1,TV Sporting
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/65.ts
+#EXTINF: -1,Tv de combustível
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/62.ts
+#EXTINF: -1,A Bola
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/37.ts
+#EXTINF: -1,TVCine 1 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/21.ts
+#EXTINF: -1,TVCine 2 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/22.ts
+#EXTINF: -1,TVCine 3 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/23.ts
+#EXTINF: -1,TVCine 4 HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/24.ts
+#EXTINF: -1,Mov HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/102.ts
+#EXTINF: -1,Mov
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/89.ts
+#EXTINF: -1,CINEMUNDO HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/64.ts
+#EXTINF: -1,TVséries HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/25.ts
+#EXTINF: -1,HOLLYWOOD HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/103.ts
+#EXTINF: -1,HOLLYWOOD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/40.ts
+#EXTINF: -1,Raposa move HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/17.ts
+#EXTINF: -1,Fox Life
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/78.ts
+#EXTINF: -1,FOX CRIME HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/50.ts
+#EXTINF: -1,Fox HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/33.ts
+#EXTINF: -1,Syfy
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/46.ts
+#EXTINF: -1,AXN HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/38.ts
+#EXTINF: -1,AXN HD BRANCO
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/49.ts
+#EXTINF: -1,AXN HD PRETO
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/100.ts
+#EXTINF: -1,FOX Comédia
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/84.ts
+#EXTINF: -1,TLC
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/77.ts
+#EXTINF: -1,CBS REALIDADE
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/43.ts
+#EXTINF: -1,A & E
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/81.ts
+#EXTINF: -1,DISCOVERY
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/60.ts
+#EXTINF: -1,Discovery HD Showcase
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/93.ts
+#EXTINF: -1,CANAL HISTORIA
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/52.ts
+#EXTINF: -1,National Geographic HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/85.ts
+#EXTINF: -1,Nat Geo Wild
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/94.ts
+#EXTINF: -1,Odisseia
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/31.ts
+#EXTINF: -1,Travel Channel
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/108.ts
+#EXTINF: -1,ETV
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/57.ts
+#EXTINF: -1,Nickelodeon
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/15.ts
+#EXTINF: -1,Sic Crianças
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/83.ts
+#EXTINF: -1,DISNEY CHANEL
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/58.ts
+#EXTINF: -1,Disney Júnior
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/19.ts
+#EXTINF: -1,Cartoon Network PT
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/79.ts
+#EXTINF: -1,Jim Jam
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/104.ts
+#EXTINF: -1,Canal Panda
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/35.ts
+#EXTINF: -1,VH1
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/69.ts
+#EXTINF: -1,Mtv Portugal
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/75.ts
+#EXTINF: -1,AFRO MUSIC
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/28.ts
+#EXTINF: -1,Caça e Pesca
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/66.ts
+#EXTINF: -1,TOROS
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/59.ts
+#EXTINF: -1,24 COZINHA HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/106.ts
+#EXTINF: -1,caçavision
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/107.ts
+#EXTINF: -1,VENUS
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/13.ts
+#EXTINF: -1,PLBOYHD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/12.ts
+#EXTINF: -1,HOT HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/51.ts
+#EXTINF: -1,18
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/91.ts
+#EXTINF: -1,++ 18
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/92.ts
