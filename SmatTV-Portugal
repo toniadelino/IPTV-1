@@ -19,9 +19,11 @@ http://213.13.26.11:1935/live/sic/magellan.m3u8
 #EXTINF: -1,TVI
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/4.ts
 #EXTINF: -1,TVI24
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/29.ts
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/inspirationlinks.m3u8
 #EXTINF: -1,SIC Notícias
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/32.ts
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sicnoticias/inspirationlinks.m3u8
 #EXTINF:-1 channelId="-1" tvg-logo="http://visaodigital.sytes.net/picons/rtp3.png" , RTP3
 #EXTBG:#ffffff
 http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
@@ -46,26 +48,51 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/80.ts
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/73.ts
 #EXTINF: -1,TV GLOBO PREMIUM
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/18.ts
+#EXTINF: -1,TPA
+#EXTBG:#ffffff
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+#EXTINF: -1,ECONOMICO TV
+#EXTBG:#ffffff
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF: -1,Gravar programas de TV
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/26.ts
+#EXTINF: -1,SPORTV AMERICAS HD
+#EXTBG:#ffffff
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF: -1,SPORTV AMERICAS
+#EXTBG:#ffffff
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+#EXTINF: -1,SPORT TV Russo
+#EXTBG:#ffffff
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 #EXTINF: -1,SPORT.TV 1 HD
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/5.ts
 #EXTINF: -1,SPORT.TV uma HQ
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/96.ts
 #EXTINF: -1,SPORT.TV 2 HD
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/6.ts
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
 #EXTINF: -1,SPORT.TV 3 HD
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/7.ts
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
 #EXTINF: -1,SPORT.TV 4 HD
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/8.ts
 #EXTINF: -1,SPORT.TV 5 HD
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/9.ts
 #EXTINF: -1,BTV 1 HD
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/10.ts
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3308.m3u8
 #EXTINF: -1,BTV 1 HQ
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/98.ts
 #EXTINF: -1,BTV 2 HD
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/11.ts
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3308.m3u8
+#EXTINF: -1,SPORTV
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+#EXTINF: -1,SPORTV2
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/sportv2/playlist.m3u8
 #EXTINF: -1,PFC
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/95.ts
 #EXTINF: -1,Eurosport HD
@@ -77,7 +104,11 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/87.ts
 #EXTINF: -1,http://iptv.zone SPORTING TV HD
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/105.ts
 #EXTINF: -1,TV Sporting
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/65.ts
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3305.m3u8
+#EXTINF: -1,TV Sporting
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7847.m3u8
 #EXTINF: -1,Tv de combustível
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/62.ts
 #EXTINF: -1,A Bola
@@ -180,3 +211,46 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/51.ts
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/91.ts
 #EXTINF: -1,++ 18
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/92.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK",Chelsea TV [FSD]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
+
+#EXTINF:-1 group-title="UK",Liverpool TV [HD]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1,XXX
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8
+#EXTINF: -1,Sexy
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF: -1,BRAZZERS EUROPE
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF: -1,OLALA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF: -1,PASSION XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF: -1,JASMIN CHANNEL
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF: -1,BELLA CLUB
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF: -1,BELLA CLUB2
+http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
+#EXTINF: -1,EVT 2
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
