@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 channelId="-1" tvg-logo="http://visionfour.com/images/iptv.jpg" , - IPTV EM SAMRT TV -
+#EXTBG:http://visionfour.com/images/iptv.jpg
 #EXTINF:-1,RTP1
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/1.ts
 #EXTINF: -1,RTP2
@@ -6,7 +8,8 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/2.ts
 #EXTINF: -1,RTP 3
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/54.ts
 #EXTINF: -1,SIC
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/3.ts
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sic/magellan.m3u8
 #EXTINF: -1,TVI
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/4.ts
 #EXTINF: -1,TVI24
