@@ -1,12 +1,24 @@
 #EXTM3U
 #EXTINF:-1 channelId="-1" tvg-logo="http://visionfour.com/images/iptv.jpg" , - IPTV EM SAMRT TV -
-#EXTBG:http://visionfour.com/images/iptv.jpg
+#EXTBG:#ffffff
 #EXTINF:-1,RTP1
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/1.ts
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
+#EXTINF:-1,RTP1 HD
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1.smil/chunklist_b600000_slpt.m3u8
 #EXTINF: -1,RTP2
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/2.ts
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
+#EXTINF: -1,RTP2
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2.smil/chunklist_b600000_slpt.m3u8
 #EXTINF: -1,RTP 3
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/54.ts
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+#EXTINF: -1,RTP 3
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
 #EXTINF: -1,SIC
 #EXTBG:#ffffff
 http://213.13.26.11:1935/live/sic/magellan.m3u8
