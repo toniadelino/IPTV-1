@@ -10,15 +10,9 @@ http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1.smil/chunklist
 #EXTINF: -1,RTP2
 #EXTBG:#ffffff
 http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
-#EXTINF: -1,RTP2 HD
+#EXTINF: -1,RTP2
 #EXTBG:#ffffff
 http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2.smil/chunklist_b600000_slpt.m3u8
-#EXTINF:-1 channelId="-1" tvg-logo="http://visaodigital.sytes.net/picons/rtp3.png" , RTP3
-#EXTBG:#ffffff
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
-#EXTINF: -1,RTP 3
-#EXTBG:#ffffff
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
 #EXTINF: -1,SIC
 #EXTBG:#ffffff
 http://213.13.26.11:1935/live/sic/magellan.m3u8
@@ -28,6 +22,12 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/4.ts
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/29.ts
 #EXTINF: -1,SIC Notícias
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/32.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://visaodigital.sytes.net/picons/rtp3.png" , RTP3
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+#EXTINF: -1,RTP Informação
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
 #EXTINF: -1,CMTV
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/27.ts
 #EXTINF: -1,Porto Canal
