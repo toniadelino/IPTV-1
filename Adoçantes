@@ -109,7 +109,7 @@ http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2718.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://natv.pt/img/BB93785A-B161-4DDB-8AA0-1EDB79951AC5/imagem/" , TVI REALITY
 #EXTBG:#ffffff
-http://direct-stream.biz/embednews.php?c=TVIReality24
+http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
 #EXTINF:-1 channelId="2648" , TVI 24
 #EXTBG:#ffffff
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b814000.m3u8
