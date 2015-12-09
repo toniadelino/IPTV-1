@@ -197,6 +197,9 @@ http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream/chu
 http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream_source/chunklist_b1328000.m3u8
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
 http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
@@ -222,9 +225,15 @@ http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/203.ts
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/204.ts
+#EXTINF:-1 channelId="1585" , Sport TV 3
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #EXTINF:-1 channelId="1586" , SPORT TV 4
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/205.ts
