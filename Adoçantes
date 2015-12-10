@@ -2,7 +2,7 @@
 #EXTINF:-1 channelId="-1" tvg-logo="http://visionfour.com/images/iptv.jpg" , - IPTV EM SAMRT TV -
 #EXTBG:http://visionfour.com/images/iptv.jpg
 #EXTSIZE:Big
-http://visionfour.com/images/iptv.jpg
+http://mek4.mekstream.com/eetv/_definst_/smil:gs_wind080301.smil/chunklist_w844681360_b414000.m3u8
 #EXTINF:-1 channelId="2832" , RTP 1
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/225.ts
