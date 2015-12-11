@@ -480,6 +480,18 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1 channelId="151" , VH1
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/69.ts
+#EXTINF:-1 channelId="151" , VH1 SHUFFLE
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.11:1234
+#EXTINF:-1 channelId="289" , MTV Hits
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.12:1234
+#EXTINF:-1 channelId="290" , MTV Rocks
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.14:1234
+#EXTINF:-1 channelId="146" , MTV Dance
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.13:1234
 #EXTINF:-1 channelId="1106" , Mtv Portugal
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/75.ts
 #EXTINF:-1 channelId="2788" , AFRO MUSIC
