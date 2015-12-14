@@ -350,6 +350,8 @@ http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-co
 #EXTINF:-1 channelId="2872" , TVCine 1 HD
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/209.ts
+#EXTINF:-1 channelId="2872" , TVCine 1 HD
+http://iptv.proff.co:15003/live/One/One/1402.m3u8
 #EXTINF:-1 channelId="2874" , TVCine 2 HD
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/210.ts
