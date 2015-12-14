@@ -209,7 +209,7 @@ http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/3308.ts
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/213.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
-http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/784.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
@@ -221,7 +221,7 @@ http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/202.ts
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/727.ts
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/203.ts
