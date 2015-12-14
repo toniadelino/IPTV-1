@@ -212,7 +212,7 @@ http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/213.ts
 http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/784.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+http://iptv.proff.co:15003/live/One/One/1417.m3u8
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
