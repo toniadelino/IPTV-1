@@ -352,23 +352,15 @@ http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-co
 #EXTINF:-1 channelId="2872" , TVCine 1 HD
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/209.ts
-#EXTINF:-1 channelId="2872" , TVCine 1 HD
-http://iptv.proff.co:15003/live/One/One/1402.m3u8
 #EXTINF:-1 channelId="2874" , TVCine 2 HD
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/210.ts
-#EXTINF:-1 channelId="2874" , TVCine 2 HD
-http://iptv.proff.co:15003/live/One/One/1401.m3u8
 #EXTINF:-1 channelId="2876" , TVCine 3 HD
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/211.ts
-#EXTINF:-1 channelId="2876" , TVCine 3 HD
-http://iptv.proff.co:15003/live/One/One/1400.m3u8
 #EXTINF:-1 channelId="2878" , TVCine 4 HD
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/212.ts
-#EXTINF:-1 channelId="2878" , TVCine 4 HD
-http://iptv.proff.co:15003/live/One/One/1399.m3u8
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2920.ts
