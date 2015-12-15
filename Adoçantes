@@ -221,7 +221,9 @@ http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/202.ts
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/727.ts
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+http://80.82.78.16:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/203.ts
