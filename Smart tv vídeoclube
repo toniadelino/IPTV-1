@@ -9,7 +9,7 @@ http://37.187.171.219:8080/vod/TheLastSurvivors.mp4/index.m3u8
 http://37.187.171.219:8080/vod/TheJudge.mp4/index.m3u8
 #EXTINF:-1, DRACULA UNTOLD
 http://37.187.171.219:8080/vod/DraculaUntold.mp4/index.m3u8
-#EXTINF:-1, 300 RISE OF AN EMPIRE 3D
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.bitsfilmes.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/0/300-ascensaoimperio-em3d_bd_2d.jpg",300 RISE OF AN EMPIRE 3D
 http://37.187.171.219:8080/vod/300RiseofanEmpire3D.mp4/index.m3u8
 #EXTINF:-1, HOTEL TRANSYLVANIA
 http://37.187.171.219:8080/vod/HotelTransylvania.mp4/index.m3u8
