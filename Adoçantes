@@ -572,6 +572,15 @@ http://i47.tinypic.com/2rz5kxt.jpg
 #EXTINF:-1 channelId="-1" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4a/Venus_channel.jpg/revision/latest?cb=20130305011941" , VENUS
 #EXTBG:#e300ff
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/13.ts
+#EXTINF:-1,Private Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:privatetv/playlist.m3u8
+#EXTINF:-1,Hustler HD
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
+#EXTINF:-1,Hustler Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
 #EXTINF:-1 channelId="2597" , Adult:HOT
 #EXTBG:#e300ff
 http://62.210.248.96:11000/live/Email@email.com_adult/Email@email.com_adult/2710.ts
@@ -740,3 +749,4 @@ http://62.210.248.96:11000/live/Email@email.com_adult/Email@email.com_adult/3193
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.maxicom.cz/img-programy/brazzerstveurope.png" , 18 BRAZZERS
 #EXTBG:#e300ff
 http://62.210.248.96:11000/live/Email@email.com_adult/Email@email.com_adult/3175.ts
+
