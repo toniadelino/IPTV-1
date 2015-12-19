@@ -13,7 +13,7 @@ Esta Lista é para ser usada como teste e deve ser eliminada apos 24 horas, se g
 #EXTSIZE:Big
 http://mek4.mekstream.com/eetv/_definst_/smil:gs_wind080301.smil/chunklist_w844681360_b414000.m3u8
 #EXTINF:-1 channelId="2832" , RTP 1
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/225.ts
 #EXTINF:-1 channelId="2832" , RTP 1
 #EXTBG:#ffffff
@@ -28,7 +28,7 @@ http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.strea
 #EXTSIZE:Small
 http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1.smil/chunklist_b600000_slpt.m3u8
 #EXTINF:-1 channelId="2833" , RTP 2
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/226.ts
 #EXTINF:-1 channelId="2833" , RTP 2
 #EXTBG:#ffffff
@@ -76,7 +76,7 @@ http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.st
 #EXTBG:#ffffff
 http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem.smil/chunklist_b600000_slpt.m3u8
 #EXTINF:-1 channelId="2645" , SIC
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/227.ts
 #EXTINF:-1 channelId="2645" , SIC
 #EXTBG:#f60000
@@ -91,7 +91,7 @@ http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 #EXTBG:#ffffff
 http://213.13.26.11:1935/live/sicnoticias/inspirationlinks.m3u8
 #EXTINF:-1 channelId="2647" , TVI
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/228.ts
 #EXTINF:-1 channelId="2647" , TVI
 #EXTBG:#ffffff
@@ -106,15 +106,13 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
 #EXTBG:#ffffff
 http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/chunklist_b814000.m3u8
 #EXTINF:-1 channelId="2651" , +TVI
-#EXTBG:#ff0000
-#EXTSIZE:Small
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2711.ts
 #EXTINF:-1 channelId="2651" , +TVI
 #EXTBG:#ffffff
 http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
 #EXTINF:-1 channelId="2649" , TVI FICÇAO
-#EXTBG:#ff0000
-#EXTSIZE:Small
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2718.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://natv.pt/img/BB93785A-B161-4DDB-8AA0-1EDB79951AC5/imagem/" , TVI REALITY
 #EXTBG:#ffffff
@@ -132,31 +130,31 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 #EXTBG:#ffffff
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/27.ts
 #EXTINF:-1 channelId="2852" , SIC Mulher
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4248.ts
 #EXTINF:-1 channelId="2853" , SIC Radical
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2709.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://2.bp.blogspot.com/-jqwio_cvjYU/Ujg5TXFQPFI/AAAAAAAAEaw/xqmuaXdRSZY/s1600/SIC+Caras+logo.png" , Sic Caras
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4249.ts
 #EXTINF:-1 channelId="1031" , TV RECORD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2918.ts
 #EXTINF:-1 channelId="2564" , TerraViva
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/3162.ts
 #EXTINF:-1 channelId="2433" , SBT
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/3070.ts
 #EXTINF:-1 channelId="2435" , Rede Tv
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/3159.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_mundial.jpg" , Rede Mundial
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/3167.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://2.bp.blogspot.com/-JwUi65WP9Fc/VTvAvNNgROI/AAAAAAAABI0/DWA5WWdfomQ/s1600/alfa-tv-canal-8-en-vivo-cono-norte-lima-peru%2B1152_13464612539-tpfil02aw-26424.jpg" , Alfa
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/3164.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://assets.r7.com/assets/schumi_hotsites/tv/a-fazenda-online/OG-96ad4730b37f38a9a1d8b055744a780c.png" , A FAZENDA 8
 #EXTBG:#ffffff
