@@ -191,7 +191,7 @@ http://213.13.26.11:1935/live/etv_direto/livestream.m3u8
 #EXTSIZE:Big
 http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg
 #EXTINF:-1 channelId="2834" , Benfica
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/207.ts
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
@@ -212,7 +212,7 @@ http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/ngrp:BenficaHD.strea
 #EXTBG:#ffffff
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/3308.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/213.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
@@ -224,7 +224,7 @@ http://iptv.proff.co:15003/live/One/One/1417.m3u8
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #EXTINF:-1 channelId="1583" , SPORT TV 1 HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/202.ts
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
@@ -232,22 +232,22 @@ http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 http://80.82.78.16:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/203.ts
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/204.ts
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #EXTINF:-1 channelId="1586" , SPORT TV 4
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/205.ts
 #EXTINF:-1 channelId="2862" , Sport Tv5
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/206.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://thumbs.dreamstime.com/x/football-match-tv-sports-channel-15259755.jpg" , SPORT TV Russo
 #EXTBG:#ffffff
@@ -298,10 +298,10 @@ http://213.163.71.139:8081/live/sportv2/playlist.m3u8
 #EXTBG:#ffffff
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/95.ts
 #EXTINF:-1 channelId="2863" , A Bola
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2917.ts
 #EXTINF:-1 channelId="2855" , PORTO CANAL
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2706.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://oi58.tinypic.com/2coj1gz.jpg" , TV Sporting
 #EXTBG:#ffffff
@@ -310,10 +310,10 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3305.m3u8
 #EXTBG:#ffffff
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7847.m3u8
 #EXTINF:-1 channelId="225" , Eurosport HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2707.ts
 #EXTINF:-1 channelId="83" , Eurosport 2
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2708.ts
 #EXTINF:-1 channelId="320" , Eurosport Noticias
 #EXTBG:#ffffff
@@ -329,25 +329,25 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 #EXTSIZE:Big
 https://i.ytimg.com/vi/uLI7sUQQrPk/maxresdefault.jpg
 #EXTINF:-1 channelId="1576" , 24Kitchen HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1651.ts
 #EXTINF:-1 channelId="41" , Nickelodeon
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4256.ts
 #EXTINF:-1 channelId="2854" , Sic K
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4255.ts
 #EXTINF:-1 channelId="19" , DISNEY CHANEL
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2714.ts
 #EXTINF:-1 channelId="1197" , Disney Junior
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4258.ts
 #EXTINF:-1 channelId="1197" , Disney Junior
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4259.ts
 #EXTINF:-1 channelId="2823" , Canal Panda
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2713.ts
 #EXTINF:-1 channelId="40" , Cartoon Network PT
 #EXTBG:#ffffff
@@ -355,70 +355,114 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/79.ts
 #EXTINF:-1 channelId="191" , Jim Jam
 #EXTBG:#ffffff
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/104.ts
+
+
+
+
+
 #EXTINF:-1 channelId="-1" , Cinema & Series
 #EXTBG:http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-computador.jpg
 #EXTSIZE:Big
 http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-computador.jpg
+
+
+
 #EXTINF:-1 channelId="2872" , TVCine 1 HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/209.ts
 #EXTINF:-1 channelId="2874" , TVCine 2 HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/210.ts
 #EXTINF:-1 channelId="2876" , TVCine 3 HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/211.ts
 #EXTINF:-1 channelId="2878" , TVCine 4 HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/212.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2920.ts
 #EXTINF:-1 channelId="-1" tvg-logo="https://jorgesalvador.files.wordpress.com/2011/06/movlogo.png?w=300" , Mov HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4254.ts
 #EXTINF:-1 channelId="2848" , Mov
 #EXTBG:#ffffff
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/89.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg" , CINEMUNDO HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1646.ts
 #EXTINF:-1 channelId="1688" , HOLLYWOOD HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2715.ts
 #EXTINF:-1 channelId="1688" , HOLLYWOOD
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/40.ts
 #EXTINF:-1 channelId="2246" , AXN HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1653.ts
 #EXTINF:-1 channelId="1574" , AXN White
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2712.ts
 #EXTINF:-1 channelId="1575" , AXN Blak
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2919.ts
 #EXTINF:-1 channelId="208" , Fox HD
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/33.ts
 #EXTINF:-1 channelId="178" , Fox Life
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1650.ts
 #EXTINF:-1 channelId="1572" , FOX CRIME HD
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4252.ts
 #EXTINF:-1 channelId="2249" , FOX Comedia
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4253.ts
 #EXTINF:-1 channelId="1862" , FOX Movies *
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1647.ts
 #EXTINF:-1 channelId="1862" , Fox Movies
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/17.ts
 #EXTINF:-1 channelId="73" , Syfy
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2717.ts
 #EXTINF:-1 channelId="1192" , Syfy *
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1649.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 channelId="654" , CBS REALIDADE
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/43.ts
 #EXTINF:0 channelId="-1" tvg-logo="http://tvcinec.zip.net/images/logo.JPG" , TV CINEC
