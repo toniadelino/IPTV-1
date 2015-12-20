@@ -298,7 +298,7 @@ http://213.163.71.139:8081/live/sportv2/playlist.m3u8
 #EXTBG:#ffffff
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/95.ts
 #EXTINF:-1 channelId="2863" , A Bola
-#EXTBG:#00f1f9
+#EXTBG:#ec757f
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2917.ts
 #EXTINF:-1 channelId="2855" , PORTO CANAL
 #EXTBG:#00f1f9
@@ -310,6 +310,9 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3305.m3u8
 #EXTBG:#ffffff
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7847.m3u8
 #EXTINF:-1 channelId="225" , Eurosport HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1653.ts
+#EXTINF:-1 channelId="225" , Eurosport HD ???
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2707.ts
 #EXTINF:-1 channelId="83" , Eurosport 2
@@ -329,22 +332,22 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 #EXTSIZE:Big
 https://i.ytimg.com/vi/uLI7sUQQrPk/maxresdefault.jpg
 #EXTINF:-1 channelId="1576" , 24Kitchen HD
-#EXTBG:#00f1f9
+#EXTBG:#ec757f
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1651.ts
 #EXTINF:-1 channelId="41" , Nickelodeon
-#EXTBG:#00f1f9
+#EXTBG:#ec757f
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4256.ts
 #EXTINF:-1 channelId="2854" , Sic K
-#EXTBG:#00f1f9
-http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4255.ts
+#EXTBG:#ec757f
+http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/?????
 #EXTINF:-1 channelId="19" , DISNEY CHANEL
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2714.ts
 #EXTINF:-1 channelId="1197" , Disney Junior
-#EXTBG:#00f1f9
+#EXTBG:#ec757f
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4258.ts
 #EXTINF:-1 channelId="1197" , Disney Junior
-#EXTBG:#00f1f9
+#EXTBG:#ec757f
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4259.ts
 #EXTINF:-1 channelId="2823" , Canal Panda
 #EXTBG:#00f1f9
@@ -389,7 +392,7 @@ http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4254.t
 #EXTBG:#ffffff
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/89.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg" , CINEMUNDO HD
-#EXTBG:#00f1f9
+#EXTBG:#ec757f
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1646.ts
 #EXTINF:-1 channelId="1688" , HOLLYWOOD HD
 #EXTBG:#00f1f9
@@ -398,7 +401,7 @@ http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2715.t
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/40.ts
 #EXTINF:-1 channelId="2246" , AXN HD
 #EXTBG:#00f1f9
-http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1653.ts
+http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/?????????
 #EXTINF:-1 channelId="1574" , AXN White
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2712.ts
@@ -427,42 +430,6 @@ http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2717.t
 #EXTINF:-1 channelId="1192" , Syfy *
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1649.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 channelId="654" , CBS REALIDADE
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/43.ts
 #EXTINF:0 channelId="-1" tvg-logo="http://tvcinec.zip.net/images/logo.JPG" , TV CINEC
@@ -472,23 +439,26 @@ http://104.156.60.74:1935/tvcinec/tvcinec/live.m3u8
 #EXTBG:#ffffff
 http://servidorcoretv.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1 channelId="-1" , Documentarios
-#EXTBG:http://tvcamara.camaratupa.sp.gov.br/Imagens/Programas/DOCUMENT%C3%81RIOS.png
+#EXTBG:http://tvcamara.camaratupa.sp.gov.br/Imagens/Programas/DOCUMENT%C3%81RIOS.pn
 #EXTSIZE:Big
 http://tvcamara.camaratupa.sp.gov.br/Imagens/Programas/DOCUMENT%C3%81RIOS.png
 #EXTINF:-1 channelId="1208" , A & E
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/81.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.touroeouro.com/assets/site/uploads/article1752.jpg" , Toros
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2719.ts
 #EXTINF:-1 channelId="57" , DISCOVERY
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2716.ts
-#EXTINF:-1 channelId="241" , Discovery HD Showcase
-#EXTBG:#ffffff
+#EXTINF:-1 channelId="241" , Discovery HD Showcase ???
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4257.ts
 #EXTINF:-1 channelId="988" , BBC Intertiement
-#EXTBG:#ffffff
+#EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1648.ts
+#EXTINF:-1 channelId="2866" , Caça e Pesca
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4255.ts
 #EXTINF:-1 channelId="241" , Discovery HD Showcase
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/93.ts
 #EXTINF:-1 channelId="2868" , CANAL HISTORIA
@@ -794,4 +764,5 @@ http://62.210.248.96:11000/live/Email@email.com_adult/Email@email.com_adult/3193
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.maxicom.cz/img-programy/brazzerstveurope.png" , 18 BRAZZERS
 #EXTBG:#e300ff
 http://62.210.248.96:11000/live/Email@email.com_adult/Email@email.com_adult/3175.ts
-
+#EXTINF:-1,Venus TV
+http://87.239.102.40:4022/udp/239.1.254.164:4000
