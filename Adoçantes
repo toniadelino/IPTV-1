@@ -209,6 +209,14 @@ http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_a
 #EXTBG:#ffffff
 http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
 #EXTINF:-1 channelId="2834" , Benfica
+http://vurl.com/4xZP6
+#EXTINF:-1 channelId="2834" , Benfica HD
+http://vurl.com/68149
+#EXTINF:-1 channelId="2834" , Benfica
+http://vurl.com/73Z2A
+#EXTINF:-1 channelId="2834" , Benfica
+http://vurl.com/82Z0o
+#EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
 http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/3308.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
