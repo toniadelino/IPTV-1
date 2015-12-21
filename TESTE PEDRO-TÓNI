@@ -18,7 +18,7 @@ http://31.204.128.112:8081/live/sportv/playlist.m3u8
 #EXTINF:-1, SPORTV1 HQ BRASILEIRO
 http://213.163.71.139:8081/live/sportv/playlist.m3u8
 
-#EXTINF:-1, SPORTV2 BRASILEIRO
+#EXTINF:-1 channelId="2600" , SPORTV2
 http://213.163.71.139:8081/live/sportv2/playlist.m3u8
 
 
