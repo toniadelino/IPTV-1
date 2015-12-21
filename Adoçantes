@@ -277,10 +277,10 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/8.ts
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/9.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" , SPORT TV AMÉRICAS
 #EXTBG:#ffffff
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master.m3u8
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" , SPORT TV AMÉRICAS HD
 #EXTBG:#ffffff
-http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
 #EXTINF:-1 channelId="-1" tvg-logo="http://http://www.freeiptvlinks.com/wp-content/uploads/2015/12/UFC-Combate.jpg" , UFC - Combate
 #EXTBG:#ffffff
 http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
