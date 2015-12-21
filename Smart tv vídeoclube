@@ -3,10 +3,10 @@
 
 Esta Lista é para ser usada como teste e deve ser eliminada apos 24 horas, se gostar compre o Original.
 
-#EXTINF:-1 channelId="-1" tvg-logo="http://www.digiforum.com.br/images/Video%20Clube%20Images/LOGO%20VIDEO%20CLUBE.jpg",Smartv VideoClube
-#EXTBG:http://img08.deviantart.net/93bd/i/2012/049/0/f/logotipo___tela_filmes_by_juniorcandiolli-d4q7ljm.png
+#EXTINF:-1 channelId="-1" , Smartv VideoClube
+#EXTBG:http://www.digiforum.com.br/images/Video%20Clube%20Images/LOGO%20VIDEO%20CLUBE.jpg
 #EXTSIZE:Big
-http://www.digiforum.com.br/images/Video%20Clube%20Images/LOGO%20VIDEO%20CLUBE.jpg
+http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-computador.jpg
 
 #EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png" group-title="On.Demand",A TRAVESSIA - DUBLADO-2015
 http://tinyurl.com/A-TRAVESSIA-DUBLADO
