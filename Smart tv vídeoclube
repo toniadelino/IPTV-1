@@ -8,6 +8,18 @@ Esta Lista é para ser usada como teste e deve ser eliminada apos 24 horas, se g
 #EXTSIZE:Big
 http://www.digiforum.com.br/images/Video%20Clube%20Images/LOGO%20VIDEO%20CLUBE.jpg
 
+#EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png" group-title="On.Demand",A TRAVESSIA - DUBLADO-2015
+http://tinyurl.com/A-TRAVESSIA-DUBLADO
+
+#EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png group-title="On.Demand",EVERESTE-DUBLADO-2015
+http://tinyurl.com/EVERESTE-DUBLADO
+
+#EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png" group-title="On.Demand",CARGA EXPLOSIVA - O LEGADO - DUBLADO-2015
+http://tinyurl.com/CARGA-EXPLOSIVA-O-LEGADO
+
+#EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png" group-title="On.Demand",MISSÃO IMPOSSÍVEL: NAÇÃO SECRETA
+http://tinyurl.com/MISS-O-IMPOSS-VEL-NA-O-SECRE
+
 #EXTINF:-1, HOBBIT BATTLE OF THE 5 ARMIES
 http://37.187.171.219:8080/vod/TheHobbitBattleOfTheFiveArmies.mp4/index.m3u8
 #EXTINF:-1, THE LAST SURVIVORS
