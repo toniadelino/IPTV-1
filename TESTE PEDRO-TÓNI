@@ -6,6 +6,9 @@ http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/BenficaHD.stream_720p/c
 #EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",BENFICA TV HD
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/byarno.m3u8
 
+#EXTINF:-1 channelId="2834" , BTV 1 HD 1080
+http://vurl.com/73Z2A
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
