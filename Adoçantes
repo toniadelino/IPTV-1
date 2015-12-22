@@ -284,9 +284,6 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300
 #EXTINF:-1 channelId="-1" tvg-logo="http://http://www.freeiptvlinks.com/wp-content/uploads/2015/12/UFC-Combate.jpg" , UFC - Combate
 #EXTBG:#ffffff
 http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
-#EXTINF‬:-1,Real Madrid TV
-#EXTBG:#ffffff
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 channelId="2599" , SPORTV
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
@@ -332,6 +329,9 @@ http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2708.t
 #EXTINF:-1 channelId="320" , Eurosport Noticias
 #EXTBG:#ffffff
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/87.ts
+#EXTINF:-1 channelId="1332" , Real Madrid
+#EXTBG:#ffffff
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 channelId="1546" group-title="UK" , Chelsea TV [FSD]
 #EXTBG:#ffffff
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
