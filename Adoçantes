@@ -79,8 +79,8 @@ http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem.smil/chunkli
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/227.ts
 #EXTINF:-1 channelId="2645" , SIC
-#EXTBG:#f60000
-http://213.13.26.11:1935/live/sic/livestream.m3u8
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01t
 #EXTINF:-1 channelId="2645" , SIC
 #EXTBG:#ffffff
 http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
@@ -90,6 +90,9 @@ http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 #EXTINF:-1 channelId="2646" , SIC Noticias
 #EXTBG:#ffffff
 http://213.13.26.11:1935/live/sicnoticias/inspirationlinks.m3u8
+#EXTINF:-1 channelId="2646" , SIC Noticias
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01u
 #EXTINF:-1 channelId="2647" , TVI
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/228.ts
@@ -114,6 +117,9 @@ http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
 #EXTINF:-1 channelId="2649" , TVI FICÇAO
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2718.ts
+#EXTINF:-1 channelId="2649" , TVI FICÇAO
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a026
 #EXTINF:-1 channelId="-1" tvg-logo="http://natv.pt/img/BB93785A-B161-4DDB-8AA0-1EDB79951AC5/imagem/" , TVI REALITY
 #EXTBG:#ffffff
 http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
@@ -128,7 +134,7 @@ http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.ligateamedia.pt/Backoffice/UserFiles/3.Noticias/Imagens%202012/430/430cmtv.jpg" , CMTV
 #EXTBG:#ffffff
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/27.ts
+http://195.244.40.135:8000/play/a01d
 #EXTINF:-1 channelId="2852" , SIC Mulher
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4248.ts
@@ -138,9 +144,17 @@ http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2709.t
 #EXTINF:-1 channelId="-1" tvg-logo="http://2.bp.blogspot.com/-jqwio_cvjYU/Ujg5TXFQPFI/AAAAAAAAEaw/xqmuaXdRSZY/s1600/SIC+Caras+logo.png" , Sic Caras
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4249.ts
+#EXTINF:-1,ARTV
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01m
 #EXTINF:-1 channelId="1031" , TV RECORD
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2918.ts
+#EXTINF:-1 channelId="1031" , TV RECORD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01c
+#EXTINF:-1 channelId="2456" , TV RECORD News
+http://195.244.40.135:8000/play/a028
 #EXTINF:-1 channelId="2564" , TerraViva
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/3162.ts
@@ -186,6 +200,13 @@ http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:-1 channelId="-1" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2014/12/EconomicoTV_logo.png" , ECONOMICO TV
 #EXTBG:#ffffff
 http://213.13.26.11:1935/live/etv_direto/livestream.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2014/12/EconomicoTV_logo.png" , ECONOMICO TV
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a025
+
+
+
+
 #EXTINF:-1 channelId="-1" tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg" , Desporto
 #EXTBG:http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg
 #EXTSIZE:Big
@@ -224,6 +245,9 @@ http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/3308.ts
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/213.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01i
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
 http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/784.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
@@ -244,16 +268,25 @@ http://80.82.78.16:8081/live/portugal1/playlist.m3u8
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/203.ts
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01w
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+#EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/204.ts
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
+http://195.244.40.135:8000/play/a020
+#EXTINF:-1 channelId="1585" , Sport TV 3
+#EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #EXTINF:-1 channelId="1586" , SPORT TV 4
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/205.ts
+#EXTINF:-1 channelId="1586" , SPORT TV 4
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01p
 #EXTINF:-1 channelId="2862" , Sport Tv5
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/206.ts
@@ -308,6 +341,9 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/95.ts
 #EXTINF:-1 channelId="2863" , A Bola
 #EXTBG:#ec757f
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2917.ts
+#EXTINF:-1 channelId="2863" , A Bola
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a027
 #EXTINF:-1 channelId="2855" , PORTO CANAL
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2706.ts
@@ -351,6 +387,9 @@ http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4256.t
 #EXTINF:-1 channelId="2854" , Sic K
 #EXTBG:#ec757f
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/?????
+#EXTINF:-1 channelId="2854" , Sic K
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01n
 #EXTINF:-1 channelId="19" , DISNEY CHANEL
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2714.ts
@@ -384,18 +423,33 @@ http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-co
 #EXTINF:-1 channelId="2872" , TVCine 1 HD
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/209.ts
+#EXTINF:-1 channelId="2872" , TVCine 1 HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a021
 #EXTINF:-1 channelId="2874" , TVCine 2 HD
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/210.ts
+#EXTINF:-1 channelId="2874" , TVCine 2 HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01k
 #EXTINF:-1 channelId="2876" , TVCine 3 HD
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/211.ts
+#EXTINF:-1 channelId="2876" , TVCine 3 HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a022
 #EXTINF:-1 channelId="2878" , TVCine 4 HD
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/212.ts
+#EXTINF:-1 channelId="2878" , TVCine 4 HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01q
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2920.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a023
 #EXTINF:-1 channelId="-1" tvg-logo="https://jorgesalvador.files.wordpress.com/2011/06/movlogo.png?w=300" , Mov HD
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/4254.ts
@@ -405,9 +459,15 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/89.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg" , CINEMUNDO HD
 #EXTBG:#ec757f
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1646.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg" , CINEMUNDO HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01h
 #EXTINF:-1 channelId="1688" , HOLLYWOOD HD
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2715.ts
+#EXTINF:-1 channelId="1688" , HOLLYWOOD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01j
 #EXTINF:-1 channelId="1688" , HOLLYWOOD
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/40.ts
 #EXTINF:-1 channelId="2246" , AXN HD
@@ -438,6 +498,9 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/17.ts
 #EXTINF:-1 channelId="73" , Syfy
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/2717.ts
+#EXTINF:-1 channelId="73" , Syfy
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01v
 #EXTINF:-1 channelId="1192" , Syfy *
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/Email@Email.com_port/Email@Email.com_port/1649.ts
@@ -449,6 +512,13 @@ http://104.156.60.74:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:0 channelId="-1" tvg-logo="http://tvcinec.zip.net/images/logo.JPG" , TV CINEC PB
 #EXTBG:#ffffff
 http://servidorcoretv.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:0 channelId="2501" , AMC
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01l
+
+
+
+
 #EXTINF:-1 channelId="-1" , Documentarios
 #EXTBG:http://tvcamara.camaratupa.sp.gov.br/Imagens/Programas/DOCUMENT%C3%81RIOS.pn
 #EXTSIZE:Big
@@ -479,6 +549,9 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/85.ts
 #EXTINF:-1 channelId="164" , Nat Geo Wild
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/94.ts
 #EXTINF:-1 channelId="2869" , Odisseia
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01z
+#EXTINF:-1 channelId="2869" , Odisseia
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/31.ts
 #EXTINF:-1 channelId="54" , Travel Channel
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/108.ts
@@ -499,6 +572,13 @@ http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_pt.m3u8
 #EXTINF:-1 channelId="217" , EURONEWS
 #EXTBG:#ffffff
 http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_pt.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 channelId="-1" , Musica
 #EXTBG:http://4.bp.blogspot.com/-nY-qcB10Q2g/VAypd2pvaMI/AAAAAAAABcU/ciY0tKwQZqo/s1600/MUWOM.png
 #EXTSIZE:Big
@@ -531,6 +611,9 @@ http://212.80.63.190:4022/udp/238.1.16.14:1234
 http://212.80.63.190:4022/udp/238.1.16.13:1234
 #EXTINF:-1 channelId="1106" , Mtv Portugal
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/75.ts
+#EXTINF:-1 channelId="1106" , Mtv Portugal
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01o
 #EXTINF:-1 channelId="2788" , AFRO MUSIC
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/28.ts
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.nicolematos.pt/img/portfolio/portugal.png" , Regiões de Portugal
