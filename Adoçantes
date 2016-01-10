@@ -180,14 +180,23 @@ http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
 http://31.204.128.127:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+#EXTBG:#ffffff
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/101.m3u8
 
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/103.m3u8
 
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+#EXTINF:-1 channelId="1585" , Sport TV 3
+#EXTBG:#ffffff
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/104.m3u8
+#EXTINF:-1 channelId="1585" , Sport TV 3 HD
+#EXTBG:#ffffff
+http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/105.m3u8
 
 
 #EXTINF:-1 channelId="1586" , SPORT TV 4
