@@ -135,11 +135,13 @@ http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
 #EXTBG:#ffffff
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
 
-
-
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.frocus.net/images/logotv/original/tpa-international.jpg" , TPA
 #EXTBG:#ffffff
 http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+
+#EXTINF:-1,Record
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/662.m3u8
 
 #EXTINF:-1,TV GALIZIA 1
 #EXTBG:#ffffff
@@ -172,10 +174,22 @@ https://www.youtube.com/v/urtwG0BjZck
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
 http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/112.m3u8
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/660.ts
+#EXTINF:-1 channelId="2834" , Benfica "Teste"
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
 
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/659.ts
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/659.m3u8
 
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
@@ -187,6 +201,9 @@ http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/101.m3u8
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
 http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/103.m3u8
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/654.ts
 
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
@@ -197,6 +214,9 @@ http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/104.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3 HD
 #EXTBG:#ffffff
 http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/105.m3u8
+#EXTINF:-1 channelId="1585" , Sport TV 3 HD
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/655.ts
 
 
 #EXTINF:-1 channelId="1586" , SPORT TV 4
@@ -362,7 +382,10 @@ https://www.youtube.com/v/rkTDku6vcjU
 
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://top-iptv.zapto.org:8000/live/Aria/Aria/676.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/Aria/Aria/676.m3u8
 
 
 #EXTINF:-1 channelId="2848" , Mov
@@ -411,7 +434,7 @@ https://www.youtube.com/v/rkTDku6vcjU
 
 #EXTINF:-1 channelId="73" , Syfy
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://top-iptv.zapto.org:8000/live/Aria/Aria/658.ts
 
 #EXTINF:-1 channelId="1192" , Syfy *
 #EXTBG:#ffffff
@@ -461,7 +484,10 @@ https://www.youtube.com/v/rkTDku6vcjU
 
 #EXTINF:-1 channelId="2868" , CANAL HISTORIA
 #EXTBG:#00f1f9
-https://www.youtube.com/v/rkTDku6vcjU
+http://top-iptv.zapto.org:8000/live/Aria/Aria/667.ts
+#EXTINF:-1 channelId="2868" , CANAL HISTORIA "teste"
+#EXTBG:#00f1f9
+http://top-iptv.zapto.org:8000/live/Aria/Aria/667.ts
 
 #EXTINF:-1 channelId="207" , National Geographic HD
 #EXTBG:#00f1f9
