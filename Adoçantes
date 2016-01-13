@@ -101,6 +101,9 @@ http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
 #EXTBG:#ffffff
 http://213.13.26.11:1935/live/sicnoticias/inspirationlinks.m3u8
 
+#EXTINF:-1,Sic Radical
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1581.m3u8
+
 
 
 #EXTINF:-1 channelId="2647" , TVI
@@ -143,6 +146,9 @@ http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/Aria/Aria/662.m3u8
 
+#EXTINF:-1,TV Globo
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1580.m3u8
+
 #EXTINF:-1,TV GALIZIA 1
 #EXTBG:#ffffff
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
@@ -173,7 +179,7 @@ https://www.youtube.com/v/urtwG0BjZck
 
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
-http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/112.m3u8
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1624.m3u8
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/Aria/Aria/660.ts
@@ -190,17 +196,20 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/659.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/Aria/Aria/659.m3u8
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1582.m3u8
 
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
 http://31.204.128.127:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
-http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/101.m3u8
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1187.m3u8
 
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
-http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/103.m3u8
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1188.m3u8
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/Aria/Aria/654.ts
@@ -210,7 +219,7 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/654.ts
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
-http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/104.m3u8
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1189.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3 HD
 #EXTBG:#ffffff
 http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/105.m3u8
@@ -221,11 +230,11 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/655.ts
 
 #EXTINF:-1 channelId="1586" , SPORT TV 4
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1190.m3u8
 
 #EXTINF:-1 channelId="2862" , Sport Tv5
 #EXTBG:#00f1f9
-https://www.youtube.com/v/rkTDku6vcjU
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1465.m3u8
 
 #EXTINF:-1 channelId="-1" tvg-logo="http://thumbs.dreamstime.com/x/football-match-tv-sports-channel-15259755.jpg" , SPORT TV Russo
 #EXTBG:#ffffff
@@ -367,18 +376,19 @@ http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-co
 
 #EXTINF:-1 channelId="2872" , TVCine 1 HD
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1569.m3u8
 
 #EXTINF:-1 channelId="2874" , TVCine 2 HD
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1570.m3u8
 
 #EXTINF:-1 channelId="2876" , TVCine 3 HD
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1571.m3u8
+
 #EXTINF:-1 channelId="2878" , TVCine 4 HD
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1572.m3u8
 
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
 #EXTBG:#ffffff
