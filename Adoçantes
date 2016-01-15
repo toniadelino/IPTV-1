@@ -186,6 +186,12 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/660.ts
 #EXTINF:-1 channelId="2834" , Benfica "Teste"
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
+#EXTINF:-1 channelId="2834" , Benfica 1 HD
+http://iptvtt.ddns.net:8000/live/salvador/salvador/10.ts
+#EXTINF:-1 channelId="2834" , Benfica 1 HD
+http://iptvtt.ddns.net:8000/live/salvador/salvador/10.m3u8
+#EXTINF:-1 channelId="2834" , Benfica 1 HQ
+http://iptvtt.ddns.net:8000/live/salvador/salvador/98.ts
 
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
@@ -206,6 +212,18 @@ http://31.204.128.127:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1187.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+http://iptv-elhouari.com:8000/live/xk3qIfVij5/uMctZeV8lR/592.ts
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+http://iptvdream.dynns.com:2500/live/facebook1/facebook2/1813.ts
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+http://startimes.mine.nu:8080/live/startimes/10012016/706.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+http://iptvtt.ddns.net:8000/live/salvador/salvador/5.ts
+#EXTINF:-1 channelId="1583" , SPORT TV 1 HQ
+http://iptvtt.ddns.net:8000/live/salvador/salvador/96.ts
+#EXTINF:-1 channelId="1583" , SPORT TV 1 HD (teste)
+http://iptvtt.ddns.net:8000/live/salvador/salvador/455.ts
 
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
@@ -213,6 +231,14 @@ http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1188.m3u8
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/Aria/Aria/654.ts
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+http://iptv-elhouari.com:8000/live/xk3qIfVij5/uMctZeV8lR/599.ts
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+http://iptvdream.dynns.com:2500/live/facebook1/facebook2/889.ts
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+http://startimes.mine.nu:8080/live/startimes/10012016/707.m3u8
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+http://iptvtt.ddns.net:8000/live/salvador/salvador/6.ts
 
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
