@@ -8,19 +8,7 @@ Esta Lista é para ser usada como teste e deve ser eliminada apos 24 horas, se g
 #EXTSIZE:Big
 http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-computador.jpg
 
-#EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png" group-title="On.Demand",A TRAVESSIA - DUBLADO-2015
-http://tinyurl.com/A-TRAVESSIA-DUBLADO
-
-#EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png group-title="On.Demand",EVERESTE-DUBLADO-2015
-http://tinyurl.com/EVERESTE-DUBLADO
-
-#EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png" group-title="On.Demand",CARGA EXPLOSIVA - O LEGADO - DUBLADO-2015
-http://tinyurl.com/CARGA-EXPLOSIVA-O-LEGADO
-
-#EXTINF:-1 tvg-ID="" tvg-name="Mission Impossible - Rogue Nation (2015)" tvg-logo="http://89.163.140.7:8000/images/2381249.jpg" group-title="Filmes-2015",MISSÃO IMPOSSÍVEL 5
-http://tinyurl.com/MISS-O-IMPOSS-VEL-NA-O-SECRE
-
-#EXTINF:-1, HOBBIT BATTLE OF THE 5 ARMIES
+#EXTINF:-1, HOBBIT - BATALHA DAS 5 TORRES
 http://37.187.171.219:8080/vod/TheHobbitBattleOfTheFiveArmies.mp4/index.m3u8
 #EXTINF:-1, THE LAST SURVIVORS
 http://37.187.171.219:8080/vod/TheLastSurvivors.mp4/index.m3u8
@@ -34,13 +22,13 @@ http://37.187.171.219:8080/vod/300RiseofanEmpire3D.mp4/index.m3u8
 http://37.187.171.219:8080/vod/HotelTransylvania.mp4/index.m3u8
 #EXTINF:-1, BLACK SEA
 http://37.187.171.219:8080/vod/BlackSea.mp4/index.m3u8
-#EXTINF:-1, EX MACHINA
+#EXTINF:-1, A MAQUINA
 http://37.187.171.219:8080/vod/ExMachina.mp4/index.m3u8
 #EXTINF:-1, A MILLION WAYS TO DIE IN THE WEST
 http://37.187.171.219:8080/vod/AMillionWaystoDieintheWest.mp4/index.m3u8
 #EXTINF:-1, AMERICAN SNIPER
 http://37.187.171.219:8080/vod/AmericanSniper.mp4/index.m3u8
-#EXTINF:-1, 50 SHADES OF GREY
+#EXTINF:-1, 50 SOMBRAS DE GREY
 http://37.187.171.219:8080/vod/FiftyShadesofGrey.mp4/index.m3u8
 #EXTINF:-1, HOT PURSUIT
 http://37.187.171.219:8080/vod/HotPursuit.mp4/index.m3u8
@@ -62,7 +50,7 @@ http://37.187.171.219:8080/vod/Godzilla.mp4/index.m3u8
 http://37.187.171.219:8080/vod/DawnofthePlanetoftheApes.mp4/index.m3u8
 #EXTINF:-1, EXODUS GODS AND KINGS
 http://37.187.171.219:8080/vod/ExodusGodsandKings.mp4/index.m3u8
-#EXTINF:-1, CAPTAIN AMERICA WINTER SOLDIER 3D
+#EXTINF:-1, CAPITÃO AMERICA O 1º VINGADOR 3D
 http://37.187.171.219:8080/vod/CaptainAmericaTheWinterSoldier.mp4/index.m3u8
 #EXTINF:-1, INTERSTELLAR
 http://37.187.171.219:8080/vod/Interstellar.mp4/index.m3u8
