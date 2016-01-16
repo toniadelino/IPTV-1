@@ -8,19 +8,7 @@ Esta Lista é para ser usada como teste e deve ser eliminada apos 24 horas, se g
 #EXTSIZE:Big
 http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-computador.jpg
 
-#EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png" group-title="On.Demand",A TRAVESSIA - DUBLADO-2015
-http://tinyurl.com/A-TRAVESSIA-DUBLADO
-
-#EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png group-title="On.Demand",EVERESTE-DUBLADO-2015
-http://tinyurl.com/EVERESTE-DUBLADO
-
-#EXTINF:-1 tvg-logo="RafildsFilmesHD.png" tvg-logo="http://rafildshd.ucoz.com.br/RafildsFilmesHD.png" group-title="On.Demand",CARGA EXPLOSIVA - O LEGADO - DUBLADO-2015
-http://tinyurl.com/CARGA-EXPLOSIVA-O-LEGADO
-
-#EXTINF:-1 tvg-ID="" tvg-name="Mission Impossible - Rogue Nation (2015)" tvg-logo="http://89.163.140.7:8000/images/2381249.jpg" group-title="Filmes-2015",MISSÃO IMPOSSÍVEL 5
-http://tinyurl.com/MISS-O-IMPOSS-VEL-NA-O-SECRE
-
-#EXTINF:-1, HOBBIT BATTLE OF THE 5 ARMIES
+#EXTINF:-1, HOBBIT - A BATALHA DAS 5 TORRES
 http://37.187.171.219:8080/vod/TheHobbitBattleOfTheFiveArmies.mp4/index.m3u8
 #EXTINF:-1, THE LAST SURVIVORS
 http://37.187.171.219:8080/vod/TheLastSurvivors.mp4/index.m3u8
