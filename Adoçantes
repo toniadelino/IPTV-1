@@ -266,6 +266,10 @@ http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1465.m3u8
 #EXTBG:#ffffff
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.iptvlinksss.com/wp-content/uploads/2016/01/1005746_460931674003875_620755034_n.jpg" , HI Sport HD Thailand Bull Fight
+#EXTBG:#ffffff
+http://nakorn4.dyndns.tv:1935/live/sdlive.stream/playlist.m3u8
+
 
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" , SPORT TV AMÉRICAS
 #EXTBG:#ffffff
