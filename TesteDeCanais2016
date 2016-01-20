@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1,PT: RTP 1
+http://iptvtt.ddns.net:8000/live/vasco/vasco/1.ts
+#EXTINF:-1,PT: RTP 2
+http://iptvtt.ddns.net:8000/live/vasco/vasco/2.ts
+#EXTINF:-1,PT: RTP 3
+http://iptvtt.ddns.net:8000/live/vasco/vasco/54.ts
+#EXTINF:-1,PT: SIC
+http://iptvtt.ddns.net:8000/live/vasco/vasco/3.ts
+#EXTINF:-1,PT: TVI
+http://iptvtt.ddns.net:8000/live/vasco/vasco/4.ts
+#EXTINF:-1,PT: TVI 24
+http://iptvtt.ddns.net:8000/live/vasco/vasco/29.ts
+#EXTINF:-1,PT: SIC NOTÍCIAS
+http://iptvtt.ddns.net:8000/live/vasco/vasco/32.ts
+#EXTINF:-1,PT: CMTV
+http://iptvtt.ddns.net:8000/live/vasco/vasco/27.ts
+#EXTINF:-1,PT: PORTO CANAL
+http://iptvtt.ddns.net:8000/live/vasco/vasco/36.ts
+#EXTINF:-1,PT: TVI REALITY
+http://iptvtt.ddns.net:8000/live/vasco/vasco/48.ts
+#EXTINF:-1,PT: CÂMARA REALITY
+http://iptvtt.ddns.net:8000/live/vasco/vasco/120.ts
+#EXTINF:-1,PT: TVI FICÇÃO
+http://iptvtt.ddns.net:8000/live/vasco/vasco/63.ts
+#EXTINF:-1,PT: SIC MULHER
+http://iptvtt.ddns.net:8000/live/vasco/vasco/53.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://iptvtt.ddns.net:8000/live/vasco/vasco/76.ts
+#EXTINF:-1,PT: SIC CARAS
+http://iptvtt.ddns.net:8000/live/vasco/vasco/80.ts
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://iptvtt.ddns.net:8000/live/vasco/vasco/109.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://iptvtt.ddns.net:8000/live/vasco/vasco/111.ts
+#EXTINF:-1,PT: RTP ÁFRICA
+http://iptvtt.ddns.net:8000/live/vasco/vasco/110.ts
+#EXTINF:-1,PT: RTP AÇORES
+http://iptvtt.ddns.net:8000/live/vasco/vasco/112.ts
+#EXTINF:-1,PT: TV GLOBO
+http://iptvtt.ddns.net:8000/live/vasco/vasco/73.ts
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://iptvtt.ddns.net:8000/live/vasco/vasco/18.ts
+#EXTINF:-1,PT: TV RECORD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/26.ts
+#EXTINF:-1,PT: SPORT.TV 1 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/5.ts
+#EXTINF:-1,PT: SPORT.TV 1 HQ
+http://iptvtt.ddns.net:8000/live/vasco/vasco/96.ts
+#EXTINF:-1,PT: SPORT.TV 1 HD (teste)
+http://iptvtt.ddns.net:8000/live/vasco/vasco/455.ts
+#EXTINF:-1,PT: SPORT.TV 2 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/6.ts
+#EXTINF:-1,PT: SPORT.TV 3 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/7.ts
+#EXTINF:-1,PT: SPORT.TV 4 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/8.ts
+#EXTINF:-1,PT: SPORT.TV 5 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/9.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/10.ts
+#EXTINF:-1,PT: BTV 1 HQ
+http://iptvtt.ddns.net:8000/live/vasco/vasco/98.ts
+#EXTINF:-1,PT: BTV 2 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/11.ts
+#EXTINF:-1,PT: PFC
+http://iptvtt.ddns.net:8000/live/vasco/vasco/95.ts
+#EXTINF:-1,PT: EUROSPORT HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/61.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://iptvtt.ddns.net:8000/live/vasco/vasco/101.ts
+#EXTINF:-1,PT: EUROSPORT NEWS
+http://iptvtt.ddns.net:8000/live/vasco/vasco/87.ts
+#EXTINF:-1,PT: SPORTING TV HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/105.ts
+#EXTINF:-1,PT: SPORTING TV
+http://iptvtt.ddns.net:8000/live/vasco/vasco/65.ts
+#EXTINF:-1,PT: MOTORVISION
+http://iptvtt.ddns.net:8000/live/vasco/vasco/124.ts
+#EXTINF:-1,PT: REAL MADRID
+http://iptvtt.ddns.net:8000/live/vasco/vasco/123.ts
+#EXTINF:-1,PT: CHELSEA TV
+http://iptvtt.ddns.net:8000/live/vasco/vasco/113.ts
+#EXTINF:-1,PT: FUEL TV
+http://iptvtt.ddns.net:8000/live/vasco/vasco/62.ts
+#EXTINF:-1,PT: A BOLA
+http://iptvtt.ddns.net:8000/live/vasco/vasco/37.ts
+#EXTINF:-1,PT: TVCINE 1 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/21.ts
+#EXTINF:-1,PT: TVCINE 2 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/22.ts
+#EXTINF:-1,PT: TVCINE 3 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/23.ts
+#EXTINF:-1,PT: TVCINE 4 HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/24.ts
+#EXTINF:-1,PT: MOV HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/102.ts
+#EXTINF:-1,PT: CINEMUNDO HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/64.ts
+#EXTINF:-1,PT: TVSÉRIES HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/25.ts
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/103.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/40.ts
+#EXTINF:-1,PT: FOX MOVIES HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/17.ts
+#EXTINF:-1,PT: AMC
+http://iptvtt.ddns.net:8000/live/vasco/vasco/115.ts
+#EXTINF:-1,PT: FOX LIFE
+http://iptvtt.ddns.net:8000/live/vasco/vasco/78.ts
+#EXTINF:-1,PT: FOX CRIME HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/50.ts
+#EXTINF:-1,PT: FOX HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/33.ts
+#EXTINF:-1,PT: SYFY
+http://iptvtt.ddns.net:8000/live/vasco/vasco/46.ts
+#EXTINF:-1,PT: AXN HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/38.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/49.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/100.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://iptvtt.ddns.net:8000/live/vasco/vasco/84.ts
+#EXTINF:-1,PT: TLC
+http://iptvtt.ddns.net:8000/live/vasco/vasco/77.ts
+#EXTINF:-1,PT: CBS REALITY
+http://iptvtt.ddns.net:8000/live/vasco/vasco/43.ts
+#EXTINF:-1,PT: A&E
+http://iptvtt.ddns.net:8000/live/vasco/vasco/81.ts
+#EXTINF:-1,PT: DISCOVERY
+http://iptvtt.ddns.net:8000/live/vasco/vasco/60.ts
+#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
+http://iptvtt.ddns.net:8000/live/vasco/vasco/93.ts
+#EXTINF:-1,PT: CANAL HISTÓRIA
+http://iptvtt.ddns.net:8000/live/vasco/vasco/52.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/85.ts
+#EXTINF:-1,PT: NAT GEO WILD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/94.ts
+#EXTINF:-1,PT: ODISSEIA
+http://iptvtt.ddns.net:8000/live/vasco/vasco/31.ts
+#EXTINF:-1,PT: TRAVEL CHANNEL
+http://iptvtt.ddns.net:8000/live/vasco/vasco/108.ts
+#EXTINF:-1,PT: WOOHOO
+http://iptvtt.ddns.net:8000/live/vasco/vasco/116.ts
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://iptvtt.ddns.net:8000/live/vasco/vasco/57.ts
+#EXTINF:-1,PT: NICKELODEON
+http://iptvtt.ddns.net:8000/live/vasco/vasco/15.ts
+#EXTINF:-1,PT: BIGGS
+http://iptvtt.ddns.net:8000/live/vasco/vasco/118.ts
+#EXTINF:-1,PT: SIC KIDS
+http://iptvtt.ddns.net:8000/live/vasco/vasco/83.ts
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://iptvtt.ddns.net:8000/live/vasco/vasco/58.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://iptvtt.ddns.net:8000/live/vasco/vasco/19.ts
+#EXTINF:-1,PT: CARTOON NETWORK
+http://iptvtt.ddns.net:8000/live/vasco/vasco/79.ts
+#EXTINF:-1,PT: BABY TV
+http://iptvtt.ddns.net:8000/live/vasco/vasco/114.ts
+#EXTINF:-1,PT: JIMJAM
+http://iptvtt.ddns.net:8000/live/vasco/vasco/104.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://iptvtt.ddns.net:8000/live/vasco/vasco/35.ts
+#EXTINF:-1,PT: VH1
+http://iptvtt.ddns.net:8000/live/vasco/vasco/69.ts
+#EXTINF:-1,PT: C-MUSIC
+http://iptvtt.ddns.net:8000/live/vasco/vasco/117.ts
+#EXTINF:-1,PT: MTV PORTUGAL
+http://iptvtt.ddns.net:8000/live/vasco/vasco/75.ts
+#EXTINF:-1,PT: AFRO MUSIC
+http://iptvtt.ddns.net:8000/live/vasco/vasco/28.ts
+#EXTINF:-1,PT: CAÇA E PESCA
+http://iptvtt.ddns.net:8000/live/vasco/vasco/66.ts
+#EXTINF:-1,PT: TOROS
+http://iptvtt.ddns.net:8000/live/vasco/vasco/59.ts
+#EXTINF:-1,PT: FOOD NETWORK HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/122.ts
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://iptvtt.ddns.net:8000/live/vasco/vasco/106.ts
+#EXTINF:-1,PT: CAÇAVISION
+http://iptvtt.ddns.net:8000/live/vasco/vasco/107.ts
+#EXTINF:-1,PT: CANÇÃO NOVA
+http://iptvtt.ddns.net:8000/live/vasco/vasco/125.ts
