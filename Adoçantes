@@ -287,6 +287,9 @@ http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master2500
 #EXTBG:#ffffff
 http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",SPORTV SD
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+
 #EXTINF:-1 channelId="2599" , SPORTV
 #EXTBG:#ffffff
 http://213.163.65.116:8081/live/sportv/playlist.m3u8
@@ -302,6 +305,9 @@ http://213.163.65.116:8081/live/sportv2/playlist.m3u8
 #EXTINF:-1 channelId="2600" , SPORTV2
 #EXTBG:#ffffff
 http://213.163.71.139:8081/live/sportv2/playlist.m3u8
+
+
+
 
 #EXTINF:-1 channelId="-1" tvg-logo="http://4.bp.blogspot.com/-5SddYGl-rJg/VCgzUi0IAuI/AAAAAAACKBM/iRhDhrYmml0/s1600/PFC_LOGO_2014.png" , PFC
 #EXTBG:#ffffff
