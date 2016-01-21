@@ -149,6 +149,8 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/662.m3u8
 #EXTINF:-1,TV Globo
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1580.m3u8
 
+
+
 #EXTINF:-1,TV GALIZIA 1
 #EXTBG:#ffffff
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
@@ -246,9 +248,6 @@ http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1189.m3u8
-#EXTINF:-1 channelId="1585" , Sport TV 3 HD
-#EXTBG:#ffffff
-http://iptvcolor.myftp.biz:8000/live/IPTVCOLOR/DJV14dzk/105.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3 HD
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/Aria/Aria/655.ts
