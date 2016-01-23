@@ -180,7 +180,7 @@ https://www.youtube.com/v/urtwG0BjZck
 
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
-http://bit.ly/1K3qFpJ
+http://185.26.175.200:5000/udp/239.200.1.9:10000
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1624.m3u8
