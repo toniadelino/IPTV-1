@@ -178,7 +178,9 @@ http://213.13.26.11:1935/live/etv_direto/livestream.m3u8
 https://www.youtube.com/v/urtwG0BjZck
 
 
-
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
+http://bit.ly/1K3qFpJ
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1624.m3u8
