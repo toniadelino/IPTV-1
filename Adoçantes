@@ -145,6 +145,9 @@ http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
 #EXTINF:-1,Record
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/Aria/Aria/662.m3u8
+#EXTINF:-1,Record
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/walid/walid/518.m3u8
 
 #EXTINF:-1,TV Globo
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1580.m3u8
@@ -181,6 +184,9 @@ https://www.youtube.com/v/urtwG0BjZck
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
 http://185.26.175.200:5000/udp/239.200.1.9:10000
+#EXTINF:-1 channelId="2834" , Benfica 1 HD
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/walid/walid/660.m3u8
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1624.m3u8
@@ -211,6 +217,9 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/659.m3u8
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1582.m3u8
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/walid/walid/659.m3u8
 
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
@@ -224,6 +233,9 @@ http://31.204.128.127:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1187.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/walid/walid/653.m3u8
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 http://iptv-elhouari.com:8000/live/xk3qIfVij5/uMctZeV8lR/592.ts
 #EXTINF:-1 channelId="1583" , SPORT TV 1
@@ -251,10 +263,18 @@ http://iptvdream.dynns.com:2500/live/facebook1/facebook2/889.ts
 http://startimes.mine.nu:8080/live/startimes/10012016/707.m3u8
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 http://iptvtt.ddns.net:8000/live/salvador/salvador/6.ts
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/walid/walid/654.m3u8
+
+
 
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
 http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+#EXTINF:-1 channelId="1585" , Sport TV 3
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/walid/walid/655.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1189.m3u8
@@ -391,7 +411,7 @@ https://www.youtube.com/v/rkTDku6vcjU
 
 #EXTINF:-1 channelId="2854" , Sic K
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://top-iptv.zapto.org:8000/live/walid/walid/662.m3u8
 
 #EXTINF:-1 channelId="19" , DISNEY CHANEL
 #EXTBG:#ffffff
@@ -435,21 +455,31 @@ http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1569.m3u8
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/walid/walid/519.m3u8
 
+
 #EXTINF:-1 channelId="2874" , TVCine 2 HD
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1570.m3u8
+#EXTINF:-1 channelId="2874" , TVCine 2 HD
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/walid/walid/520.m3u8
 
 #EXTINF:-1 channelId="2876" , TVCine 3 HD
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1571.m3u8
+#EXTINF:-1 channelId="2876" , TVCine 3 HD
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/walid/walid/521.m3u8
 
 #EXTINF:-1 channelId="2878" , TVCine 4 HD
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1572.m3u8
+#EXTINF:-1 channelId="2878" , TVCine 4 HD
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/walid/walid/521.m3u8
 
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
 #EXTBG:#ffffff
-http://top-iptv.zapto.org:8000/live/Aria/Aria/676.ts
+http://top-iptv.zapto.org:8000/live/walid/walid/676.m3u8
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/Aria/Aria/676.m3u8
@@ -461,7 +491,7 @@ https://www.youtube.com/v/rkTDku6vcjU
 
 #EXTINF:-1 channelId="-1" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg" , CINEMUNDO HD
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://top-iptv.zapto.org:8000/live/walid/walid/674.m3u8
 
 #EXTINF:-1 channelId="1688" , HOLLYWOOD HD
 #EXTBG:#ffffff
@@ -505,7 +535,7 @@ http://top-iptv.zapto.org:8000/live/Aria/Aria/658.ts
 
 #EXTINF:-1 channelId="1192" , Syfy *
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://top-iptv.zapto.org:8000/live/walid/walid/658.m3u8
 
 #EXTINF:0 channelId="-1" tvg-logo="http://tvcinec.zip.net/images/logo.JPG" , TV CINEC
 #EXTBG:#ffffff
@@ -537,7 +567,7 @@ https://www.youtube.com/v/rkTDku6vcjU
 
 #EXTINF:-1 channelId="57" , DISCOVERY
 #EXTBG:#ffffff
-https://www.youtube.com/v/rkTDku6vcjU
+http://top-iptv.zapto.org:8000/live/walid/walid/668.m3u8
 
 #EXTINF:-1 channelId="241" , Discovery HD Showcase
 #EXTBG:#00f1f9
@@ -551,14 +581,14 @@ https://www.youtube.com/v/rkTDku6vcjU
 
 #EXTINF:-1 channelId="2868" , CANAL HISTORIA
 #EXTBG:#00f1f9
-http://top-iptv.zapto.org:8000/live/Aria/Aria/667.ts
+http://top-iptv.zapto.org:8000/live/walid/walid/667.m3u8
 #EXTINF:-1 channelId="2868" , CANAL HISTORIA "teste"
 #EXTBG:#00f1f9
 http://top-iptv.zapto.org:8000/live/Aria/Aria/667.ts
 
 #EXTINF:-1 channelId="207" , National Geographic HD
 #EXTBG:#00f1f9
-https://www.youtube.com/v/rkTDku6vcjU
+http://top-iptv.zapto.org:8000/live/walid/walid/670.m3u8
 
 #EXTINF:-1 channelId="164" , Nat Geo Wild
 #EXTBG:#00f1f9
@@ -567,6 +597,9 @@ https://www.youtube.com/v/rkTDku6vcjU
 #EXTINF:-1 channelId="2869" , Odisseia
 #EXTBG:#00f1f9
 http://online.pxstream.tv:1935/loadbalance/91611597355249623734/live.m3u8
+#EXTINF:-1 channelId="2869" , Odisseia
+#EXTBG:#00f1f9
+http://top-iptv.zapto.org:8000/live/walid/walid/669.m3u8
 
 #EXTINF:-1 channelId="54" , Travel Channel
 #EXTBG:#00f1f9
