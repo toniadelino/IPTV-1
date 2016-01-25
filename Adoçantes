@@ -214,6 +214,12 @@ http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1582.m3u8
 
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
+http://213.163.71.139:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+#EXTBG:#ffffff
+http://213.163.65.116:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+#EXTBG:#ffffff
 http://31.204.128.127:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1 channelId="1583" , SPORT TV 1
 #EXTBG:#ffffff
@@ -252,6 +258,15 @@ http://31.204.128.112:8081/live/portugal3/playlist.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1189.m3u8
+#EXTINF:-1 channelId="1585" , Sport TV 3 HD
+#EXTBG:#ffffff
+http://31.204.128.127:8081/live/portugal2/playlist.m3u8
+#EXTINF:-1 channelId="1585" , Sport TV 3 HD
+#EXTBG:#ffffff
+http://31.204.128.127:8081/live/portugal3/playlist.m3u8
+#EXTINF:-1 channelId="1585" , Sport TV 3 HD
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1 channelId="1585" , Sport TV 3 HD
 #EXTBG:#ffffff
 http://top-iptv.zapto.org:8000/live/Aria/Aria/655.ts
@@ -416,6 +431,9 @@ http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-co
 #EXTINF:-1 channelId="2872" , TVCine 1 HD
 #EXTBG:#ffffff
 http://iptv-volkan.ddns.net:8000/live/Martin/Martin/1569.m3u8
+#EXTINF:-1 channelId="2872" , TVCine 1 HD
+#EXTBG:#ffffff
+http://top-iptv.zapto.org:8000/live/walid/walid/519.m3u8
 
 #EXTINF:-1 channelId="2874" , TVCine 2 HD
 #EXTBG:#ffffff
@@ -548,7 +566,7 @@ https://www.youtube.com/v/rkTDku6vcjU
 
 #EXTINF:-1 channelId="2869" , Odisseia
 #EXTBG:#00f1f9
-https://www.youtube.com/v/rkTDku6vcjU
+http://online.pxstream.tv:1935/loadbalance/91611597355249623734/live.m3u8
 
 #EXTINF:-1 channelId="54" , Travel Channel
 #EXTBG:#00f1f9
