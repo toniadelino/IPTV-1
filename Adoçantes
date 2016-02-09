@@ -13,6 +13,113 @@ Editada a : 26-01-2016
 #EXTSIZE:Big
 https://www.youtube.com/v/xdV3S1mOnjg
 
+#EXTINF:-1,RTP1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1119.m3u8
+#EXTINF:-1,RTP2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1120.m3u8
+#EXTINF:-1,SIC
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1121.m3u8
+#EXTINF:-1,TVI
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1125.m3u8
+#EXTINF:-1,SICNOTICIAS
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1123.m3u8
+#EXTINF:-1,TVI24
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/808.m3u8
+#EXTINF:-1,RTP INFORMACAO
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1131.m3u8
+#EXTINF:-1,CMTV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/498.m3u8
+#EXTINF:-1,TVIFICCAO
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1126.m3u8
+#EXTINF:-1,+TVI
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1122.m3u8
+#EXTINF:-1,PORTOCANAL
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1130.m3u8
+#EXTINF:-1,VH1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/499.m3u8
+#EXTINF:-1,SPORTTV 1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/501.m3u8
+#EXTINF:-1,SPORTTV 2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/500.m3u8
+#EXTINF:-1,SPORTTV 3
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1135.m3u8
+#EXTINF:-1,SPORTTV 4
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1136.m3u8
+#EXTINF:-1,SPORTTV5
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1137.m3u8
+#EXTINF:-1,BTV1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/807.m3u8
+#EXTINF:-1,BTV2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/806.m3u8
+#EXTINF:-1,BENFICA TV1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1421.m3u8
+#EXTINF:-1,BENFICA TV2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1418.m3u8
+#EXTINF:-1,SPORTING TV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1141.m3u8
+#EXTINF:-1,A BOLA TV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1404.m3u8
+#EXTINF:-1,EUROSPORT
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1413.m3u8
+#EXTINF:-1,CINEMUNDO
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/507.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1144.m3u8
+#EXTINF:-1,TVCINE1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1145.m3u8
+#EXTINF:-1,TVCINE2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1146.m3u8
+#EXTINF:-1,TVCINE3
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/886.m3u8
+#EXTINF:-1,TVCINE4
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1147.m3u8
+#EXTINF:-1,TVSERIES
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1152.m3u8
+#EXTINF:-1,FOX
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1149.m3u8
+#EXTINF:-1,FOXLIFE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1150.m3u8
+#EXTINF:-1,FOXCRIME
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1151.m3u8
+#EXTINF:-1,FOXMOVIES
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1148.m3u8
+#EXTINF:-1,AXN
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1812.m3u8
+#EXTINF:-1,AXNBLACK
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1156.m3u8
+#EXTINF:-1,AXNWHE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1155.m3u8
+#EXTINF:-1,VEVO1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/424.m3u8
+#EXTINF:-1,VEVO3
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1175.m3u8
+#EXTINF:-1,VEVO2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1174.m3u8
+#EXTINF:-1,MTVDANCE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/805.m3u8
+#EXTINF:-1,KISSTV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/809.m3u8
+#EXTINF:-1,MOTORSTV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1193.m3u8
+#EXTINF:-1,DISNEYCHANNEL
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1162.m3u8
+#EXTINF:-1,DISNEYJUNIOR
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1213.m3u8
+#EXTINF:-1,CANALPANDA
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1165.m3u8
+#EXTINF:-1,BIGGS
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1166.m3u8
+#EXTINF:-1,SICK
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1164.m3u8
+#EXTINF:-1,CARTOONNETWORK
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1161.m3u8
+#EXTINF:-1,SICRADICAL
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1159.m3u8
+#EXTINF:-1,CANALHISTORIA
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1183.m3u8
+#EXTINF:-1,NATIONALGEOGRAPHIC
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88iZ/1184.m3u8
+
 
 
 
