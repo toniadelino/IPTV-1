@@ -70,7 +70,9 @@ http://osltv.zackapps.com/app/zak/bein.php?id=11&type=.m3u8
 http://osltv.zackapps.com/app/zak/bein.php?id=12&type=.m3u8
 #EXTINF:-1,bein 13
 http://osltv.zackapps.com/app/zak/bein.php?id=13&type=.m3u8
-#EXTINF:-1,alkass
+#EXTINF:-1,alkass 1
+http://alkass-i.akamaihd.net/hls/live/205534/1/live_21s4.m3u8
+#EXTINF:-1,alkass 2
 http://alkass-i.akamaihd.net/hls/live/205534/2/live_20s4.m3u8
 #EXTINF:-1,arriadia
 http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=1900000-21736840.m3u8
