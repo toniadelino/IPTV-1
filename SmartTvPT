@@ -28,3 +28,63 @@ http://iptv.temnet.pt:8000/live/gustavo/gustavo1/34.ts
 http://iptv.temnet.pt:8000/live/gustavo/gustavo1/35.ts
 #EXTINF:-1,SPORTV5
 http://iptv.temnet.pt:8000/live/gustavo/gustavo1/36.ts
+
+
+#EXTINF:-1,bein 1FR
+http://osltv.zackapps.com/app/zak/bein.php?id=14&type=.m3u8
+#EXTINF:-1,bein 2FR
+http://osltv.zackapps.com/app/zak/bein.php?id=15&type=.m3u8
+#EXTINF:-1,sky sport 1
+http://osltv.zackapps.com/app/zak/sky.php?id=1&type=.m3u8
+#EXTINF:-1,sky sport 2
+http://osltv.zackapps.com/app/zak/sky.php?id=2&type=.m3u8
+#EXTINF:-1,sky sport 3
+http://osltv.zackapps.com/app/zak/sky.php?id=3&type=.m3u8
+#EXTINF:-1,sky sport 4
+http://osltv.zackapps.com/app/zak/sky.php?id=4&type=.m3u8
+#EXTINF:-1,sky sport 5
+http://osltv.zackapps.com/app/zak/sky.php?id=5&type=.m3u8
+#EXTINF:-1,bein 1
+http://osltv.zackapps.com/app/zak/bein.php?id=1&type=.m3u8
+#EXTINF:-1,bein 2
+http://osltv.zackapps.com/app/zak/bein.php?id=2&type=.m3u8
+#EXTINF:-1,bein 3
+http://osltv.zackapps.com/app/zak/bein.php?id=3&type=.m3u8
+#EXTINF:-1,bein 4
+http://osltv.zackapps.com/app/zak/bein.php?id=4&type=.m3u8
+#EXTINF:-1,bein 5
+http://osltv.zackapps.com/app/zak/bein.php?id=5&type=.m3u8
+#EXTINF:-1,bein 6
+http://osltv.zackapps.com/app/zak/bein.php?id=6&type=.m3u8
+#EXTINF:-1,bein 7
+http://osltv.zackapps.com/app/zak/bein.php?id=7&type=.m3u8
+#EXTINF:-1,bein 8
+http://osltv.zackapps.com/app/zak/bein.php?id=8&type=.m3u8
+#EXTINF:-1,bein 9
+http://osltv.zackapps.com/app/zak/bein.php?id=9&type=.m3u8
+#EXTINF:-1,bein 10
+http://osltv.zackapps.com/app/zak/bein.php?id=10&type=.m3u8
+#EXTINF:-1,bein 11
+http://osltv.zackapps.com/app/zak/bein.php?id=11&type=.m3u8
+#EXTINF:-1,bein 12
+http://osltv.zackapps.com/app/zak/bein.php?id=12&type=.m3u8
+#EXTINF:-1,bein 13
+http://osltv.zackapps.com/app/zak/bein.php?id=13&type=.m3u8
+#EXTINF:-1,alkass
+http://alkass-i.akamaihd.net/hls/live/205534/2/live_20s4.m3u8
+#EXTINF:-1,arriadia
+http://arriadia-tv.scdn.arkena.com/arriadia.isml/arriadia-audio101=64000-video=1900000-21736840.m3u8
+#EXTINF:-1,bt 1
+http://osltv.zackapps.com/app/zak/bt.php?id=1&type=.m3u8
+#EXTINF:-1,bt 2
+http://osltv.zackapps.com/app/zak/bt.php?id=2&type=.m3u8
+#EXTINF:-1,bt europe
+http://osltv.zackapps.com/app/zak/bt.php?id=europe&type=.m3u8
+#EXTINF:-1,digi sport 1
+http://85.25.43.23:8080/hls/volex_02.m3u8
+#EXTINF:-1,digi sport 2
+http://85.25.43.23:8080/hls/volex_03.m3u8
+#EXTINF:-1,digi sport 3
+http://85.25.43.23:8080/hls/volex_04.m3u8
+#EXTINF:-1,real madrid tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
