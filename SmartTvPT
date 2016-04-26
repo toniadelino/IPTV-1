@@ -14,20 +14,13 @@ Editada a : 20-04-2016
 https://www.youtube.com/v/xdV3S1mOnjg
 
 
-#EXTINF:-1,BTV1
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/81.ts
-#EXTINF:-1,BTV2
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/28.ts
-#EXTINF:-1,SPORTV1
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/32.ts
-#EXTINF:-1,SPORTV2
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/33.ts
-#EXTINF:-1,SPORTV3
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/34.ts
-#EXTINF:-1,SPORTV4
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/35.ts
-#EXTINF:-1,SPORTV5
-http://iptv.temnet.pt:8000/live/gustavo/gustavo1/36.ts
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Cbbgz-RqlAM/TxO2rcHP1OI/AAAAAAAADz8/bRfae_7VFr0/s1600/SporTV+logo.png" group-title="ESPORTES", Sportv 1 BR
+http://213.163.65.116:8081/live/sportv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/SporTV_2_logo_2011.png/640px-SporTV_2_logo_2011.png" group-title="ESPORTES", SPORTV 2 BR
+http://213.163.65.116:8081/live/sportv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/440px-Realmadrid_Television_Logo.svg.png" group-title="ESPORTES", TV REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 
 #EXTINF:-1,bein 1FR
