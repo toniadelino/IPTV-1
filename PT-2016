@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC PUB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/SIC_Portugal.png" group-title="PT",SIC
+http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/653.ts
+#EXTINF:-1 tvg-id="TVGLOBO Portugal" tvg-name="GLOBO PT PUB" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/a7/Globo-tv-internacional.png/revision/latest?cb=20140518171742" group-title="PT",GLOBO PT
+http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/655.ts
+#EXTINF:-1 tvg-id="TVCINE 1 HD" tvg-name="TVCINE 1 HD PUB" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png" group-title="PT",TVCINE 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/654.ts
